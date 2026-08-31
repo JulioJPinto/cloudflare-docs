@@ -1,0 +1,25 @@
+src/content/docs/cloudflare-one/team-and-resources/devices/cloudflare-one-client/deployment/manual-deployment.mdx
+  s_1df15800a042de::t_1af8f8c3cedc41 13-20,26,41-42,47-70,76,80,82,88,90,92,94-97,99-101,103,105-107,113-135
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-mesh/get-started.mdx
+  s_1df15800a042de::t_252c26ae64dfaa 16-23,30,34,36,38,40-42,46,48-55,74-75,78-162,179-182,185-192,195-198,204-228,230,232,239,243,248-250
+src/content/partials/cloudflare-one/mesh/install-node.mdx
+  s_1df15800a042de::t_ced75772a5546c 7-13,20,24,40,44
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-mesh/client-devices.mdx
+  s_1df15800a042de::t_8c43a023ace42d 16,36-41,46-49,52-59,62-86,104
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "99412cddaa775069ae687d6fcf1fd513ac37d058",
+  "prompts": {},
+  "sessions": {
+    "s_1df15800a042de": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fa8d17678ffezR3PgdCe3v0z5G",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Júlio Pinto <jpinto@cloudflare.com>"
+    }
+  }
+}
