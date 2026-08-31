@@ -1,0 +1,35 @@
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-mesh/client-devices.mdx
+  s_1df15800a042de::t_8c43a023ace42d 16,36-43,48-72,75,78-88,106
+src/content/partials/cloudflare-one/mesh/install-node.mdx
+  s_1df15800a042de::t_ced75772a5546c 7-13,20,24,40,44
+src/content/docs/cloudflare-one/team-and-resources/devices/cloudflare-one-client/deployment/manual-deployment.mdx
+  s_1df15800a042de::t_1af8f8c3cedc41 13-20,26,41-42,47-70,76,80,82,88,90,92,94-97,99-101,103,105-107,113-135
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-mesh/get-started.mdx
+  s_1df15800a042de::t_252c26ae64dfaa 16-23,30,34,36,38,40-42,46,48-65,84-85,88-172,189-192,195-202,205-208,214-238,240,242,249,253,258-260
+src/content/docs/cloudflare-one/tutorials/deploy-client-headless-linux.mdx
+  s_cd0fc2cc1739d5::t_8e2768e27f3f90 15,26-28,44-45,60-63,68-69,72,91-92,94-97,113,123-124,129-130,134,141-162,164-168
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "285e7328b8fa9fc7e4ae4bda58ccbd46cd6a6ae5",
+  "prompts": {},
+  "sessions": {
+    "s_1df15800a042de": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fa8d17678ffezR3PgdCe3v0z5G",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Júlio Pinto <jpinto@cloudflare.com>"
+    },
+    "s_cd0fc2cc1739d5": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fab9fd70dffeBkazJv01GzubBQ",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Júlio Pinto <jpinto@cloudflare.com>"
+    }
+  }
+}
