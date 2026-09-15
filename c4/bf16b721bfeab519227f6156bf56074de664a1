@@ -1,0 +1,35 @@
+src/components/cf/MeshHostnameRoutingDiagram.astro
+  s_7c4928cd46f9f5::t_1b82399f45565a 56
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-mesh/best-practices/index.mdx
+  s_7c4928cd46f9f5::t_2747bf24c0f905 2,4
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-mesh/concepts/index.mdx
+  s_7c4928cd46f9f5::t_dbab7ae7e2b88e 3,10
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-mesh/features/high-availability.mdx
+  s_7c4928cd46f9f5::t_19734094fa06ed 3
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-mesh/features/routes.mdx
+  s_7c4928cd46f9f5::t_fc9094672b28e5 3
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-mesh/get-started/index.mdx
+  s_7c4928cd46f9f5::t_b21909176d0d31 3
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-mesh/guides/connect-client-devices.mdx
+  s_7c4928cd46f9f5::t_2a4929f6c58a32 3
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-mesh/index.mdx
+  s_7c4928cd46f9f5::t_364d4e55dfc00f 36-41,71-72
+src/content/warp-releases/linux/ga/2026.6.822.0.yaml
+  s_7c4928cd46f9f5::t_27ff866a27ce9c 16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c4bf16b721bfeab519227f6156bf56074de664a1",
+  "prompts": {},
+  "sessions": {
+    "s_7c4928cd46f9f5": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5baaa18cffeEZUuGZGgaex1iz",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Júlio Pinto <jpinto@cloudflare.com>"
+    }
+  }
+}
