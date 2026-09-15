@@ -1,0 +1,167 @@
+src/components/cf/MeshHostnameRoutingDiagram.astro
+  s_77b2f7f8c6d305::t_c65ea06d7bfae3 59,73
+src/components/cf/WorkersVPCEgressDiagram.astro
+  s_77b2f7f8c6d305::t_f8f1b49173fe59 52
+src/components/cf/WorkersVPCOverviewDiagram.astro
+  s_77b2f7f8c6d305::t_f26962ee53eb6e 71
+src/content/changelog/access/2025-09-22-browser-based-rdp-ga.mdx
+  s_77b2f7f8c6d305::t_aaffcfe7de7ce2 14
+src/content/changelog/cloudflare-one/2026-04-14-cloudflare-mesh.mdx
+  s_77b2f7f8c6d305::t_c26d236c0b6894 7,13,15-16,28
+src/content/changelog/cloudflare-one/2026-05-06-mesh-ipv6-routes.mdx
+  s_77b2f7f8c6d305::t_06d9ab492af804 7,11
+src/content/changelog/cloudflare-one/2026-05-28-mesh-ha-replica-ui.mdx
+  s_77b2f7f8c6d305::t_7c9a3f4f9cb520 9,30
+src/content/changelog/cloudflare-one/2026-06-19-unified-routes-page.mdx
+  s_77b2f7f8c6d305::t_f0decb88914d6d 13
+src/content/changelog/fundamentals/2026-05-21-tunnel-mesh-granular-permissions.mdx
+  s_77b2f7f8c6d305::t_4b68ccc5f70a1f 13,17
+src/content/changelog/gateway/2025-09-11-dns-filtering-for-private-network-onramps.mdx
+  s_77b2f7f8c6d305::t_e04b7f357c2273 11
+src/content/changelog/gateway/2026-08-12-traffic-source-selector.mdx
+  s_77b2f7f8c6d305::t_08c12c48a22a59 17
+src/content/changelog/mesh/2026-07-02-mesh-hostname-routing.mdx
+  s_77b2f7f8c6d305::t_89602ed5a002bc 12,23
+src/content/changelog/mesh/2026-08-07-mesh-container-image.mdx
+  s_77b2f7f8c6d305::t_a379d4ac7f9d0e 12,14,23,27
+src/content/changelog/mesh/2026-09-02-tunnel-mesh-bulk-route-creation.mdx
+  s_77b2f7f8c6d305::t_ca1561f07c536e 13
+src/content/changelog/tunnel/2025-09-02-tunnel-networks-list-endpoints-new-default.mdx
+  s_77b2f7f8c6d305::t_368da7737bd9ff 18
+src/content/changelog/tunnel/2025-11-11-cloudflared-proxy-dns.mdx
+  s_77b2f7f8c6d305::t_d619883faffb33 28,30
+src/content/changelog/tunnel/2026-01-15-warp-connector-ping-support.mdx
+  s_77b2f7f8c6d305::t_579c0e9e9f1495 10,16
+src/content/changelog/tunnel/2026-07-09-tunnel-routes-and-connections-api-changes.mdx
+  s_77b2f7f8c6d305::t_049fcbfdbcb31b 15,70
+src/content/changelog/tunnel/2026-08-11-hostname-routing-ga-public-initial-resolved-ips.mdx
+  s_77b2f7f8c6d305::t_e25db47f661476 18,29
+src/content/changelog/workers-vpc/2026-04-14-vpc-networks.mdx
+  s_77b2f7f8c6d305::t_73614464c4998b 11
+src/content/changelog/workers-vpc/2026-05-21-vpc-networks-cloudflare-wan.mdx
+  s_77b2f7f8c6d305::t_5841c3b9fc2a96 11
+src/content/directory/mesh.yaml
+  s_77b2f7f8c6d305::t_75ad819a546f63 7
+src/content/docs/cloudflare-one/access-controls/applications/choose-application-type.mdx
+  s_77b2f7f8c6d305::t_0398f89c4d6913 48,92
+src/content/docs/cloudflare-one/access-controls/applications/non-http/self-hosted-private-app.mdx
+  s_77b2f7f8c6d305::t_9d2648822d5160 26
+src/content/docs/cloudflare-one/changelog/tunnel.mdx
+  s_77b2f7f8c6d305::t_f4731c9eebcaa8 25
+src/content/docs/cloudflare-one/faq/cloudflare-tunnels-faq.mdx
+  s_77b2f7f8c6d305::t_70a074e2344da0 71
+src/content/docs/cloudflare-one/index.mdx
+  s_77b2f7f8c6d305::t_f7cb6cd0b54e77 74
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-tunnel/private-net/cloudflared/connect-private-hostname.mdx
+  s_77b2f7f8c6d305::t_dbb0eda7acf64a 42,74
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-tunnel/private-net/index.mdx
+  s_77b2f7f8c6d305::t_08cd8504cad52e 15,27
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-wan/configuration/how-to/configure-routes.mdx
+  s_77b2f7f8c6d305::t_b8f7a21b468e6b 360,378
+src/content/docs/cloudflare-one/networks/connectors/granular-permissions.mdx
+  s_77b2f7f8c6d305::t_75980a122715ad 13,36,67
+src/content/docs/cloudflare-one/networks/routes/add-routes.mdx
+  s_77b2f7f8c6d305::t_48c982258bd061 28,47
+src/content/docs/cloudflare-one/networks/routes/reserved-ips.mdx
+  s_77b2f7f8c6d305::t_08afea2c05bd59 66,68
+src/content/docs/cloudflare-one/setup/replace-vpn/device-to-device.mdx
+  s_77b2f7f8c6d305::t_3ee4b014531930 28,82
+src/content/docs/cloudflare-one/setup/replace-vpn/network-to-network.mdx
+  s_77b2f7f8c6d305::t_5ccf2114c68bd1 23,32,69,81,89
+src/content/docs/cloudflare-one/team-and-resources/devices/cloudflare-one-client/configure/device-ips.mdx
+  s_77b2f7f8c6d305::t_b6620d421d26cd 35
+src/content/docs/cloudflare-one/team-and-resources/devices/cloudflare-one-client/configure/route-traffic/index.mdx
+  s_77b2f7f8c6d305::t_e6ea279384a299 81
+src/content/docs/cloudflare-one/team-and-resources/devices/cloudflare-one-client/configure/route-traffic/split-tunnels.mdx
+  s_77b2f7f8c6d305::t_8bab03e5581d60 81
+src/content/docs/cloudflare-one/team-and-resources/devices/cloudflare-one-client/configure/settings/index.mdx
+  s_77b2f7f8c6d305::t_42ff689c489e15 133,153,158,186
+src/content/docs/cloudflare-one/team-and-resources/devices/cloudflare-one-client/download/support-lifecycle.mdx
+  s_77b2f7f8c6d305::t_6ed918a83cf174 120
+src/content/docs/cloudflare-one/traffic-policies/dns-policies/index.mdx
+  s_77b2f7f8c6d305::t_71feeb2e9b6874 473
+src/content/docs/cloudflare-one/traffic-policies/egress-policies/host-selectors.mdx
+  s_77b2f7f8c6d305::t_c95dabd15a321d 78
+src/content/docs/cloudflare-one/tutorials/deploy-client-headless-linux.mdx
+  s_77b2f7f8c6d305::t_0d62ae48b7344c 20,160
+src/content/docs/cloudflare-wan/configuration/how-to/configure-routes.mdx
+  s_77b2f7f8c6d305::t_8b51b433c38a9f 373,397
+src/content/docs/cloudflare-wan/zero-trust/connectivity-options.mdx
+  s_77b2f7f8c6d305::t_503a97f28460d0 65,68,77,79,88,91,311,459
+src/content/docs/fundamentals/api/reference/permissions.mdx
+  s_77b2f7f8c6d305::t_d5e0da574f4a10 142-143,320-321
+src/content/docs/fundamentals/manage-members/roles.mdx
+  s_77b2f7f8c6d305::t_d25f8a7016c8f6 141
+src/content/docs/fundamentals/manage-members/scope.mdx
+  s_77b2f7f8c6d305::t_0e852d71f7bb12 120
+src/content/docs/learning-paths/data-center-protection/configure-tunnels-routes/configure-routes.mdx
+  s_77b2f7f8c6d305::t_29180994780629 323,344
+src/content/docs/learning-paths/replace-vpn/connect-private-network/cloudflare-mesh.mdx
+  s_77b2f7f8c6d305::t_296a52a47bf532 14,20,22,35,37
+src/content/docs/learning-paths/replace-vpn/connect-private-network/connection-methods.mdx
+  s_77b2f7f8c6d305::t_59b4cb03f6ff28 18
+src/content/docs/learning-paths/secure-internet-traffic/build-http-policies/tls-inspection.mdx
+  s_77b2f7f8c6d305::t_6ad719bb151336 72
+src/content/docs/learning-paths/secure-internet-traffic/connect-devices-networks/choose-on-ramp.mdx
+  s_77b2f7f8c6d305::t_a4cbb9e86291ee 65,69
+src/content/docs/magic-transit/how-to/configure-routes.mdx
+  s_77b2f7f8c6d305::t_7a0749806a61f1 330,350
+src/content/docs/mesh/features/high-availability.mdx
+  s_77b2f7f8c6d305::t_2125e2a6dfe410 18
+src/content/docs/mesh/features/routes.mdx
+  s_77b2f7f8c6d305::t_ade99835e22f27 18,190
+src/content/docs/mesh/guides/connect-client-devices.mdx
+  s_77b2f7f8c6d305::t_619fc2b1a8bca6 18,22,96,115,117
+src/content/docs/mesh/guides/run-mesh-in-containers.mdx
+  s_77b2f7f8c6d305::t_9bcfa9519576f4 89,380,386,395,401,421,445-446,448
+src/content/docs/reference-architecture/architectures/sase.mdx
+  s_77b2f7f8c6d305::t_eef15fbb315323 276
+src/content/docs/reference-architecture/architectures/security.mdx
+  s_77b2f7f8c6d305::t_1fc68dd5d76b7f 530
+src/content/docs/reference-architecture/design-guides/designing-ztna-access-policies.mdx
+  s_77b2f7f8c6d305::t_d81b7284ef1296 62
+src/content/docs/reference-architecture/design-guides/network-vpn-migration.mdx
+  s_77b2f7f8c6d305::t_dbc718756506fe 65,135
+src/content/docs/reference-architecture/design-guides/zero-trust-for-startups.mdx
+  s_77b2f7f8c6d305::t_17a3aa5e976c73 229
+src/content/docs/reference-architecture/diagrams/sase/deploying-self-hosted-VoIP-services-for-hybrid-users.mdx
+  s_77b2f7f8c6d305::t_36525f5e23fc7d 21,85
+src/content/docs/reference-architecture/diagrams/sase/sase-clientless-access-private-dns.mdx
+  s_77b2f7f8c6d305::t_3cc533639f3110 15
+src/content/docs/sandbox/tutorials/claude-managed-agents.mdx
+  s_77b2f7f8c6d305::t_f3512e5650230b 31
+src/content/docs/ssl/post-quantum-cryptography/pqc-cloudflare-products.mdx
+  s_77b2f7f8c6d305::t_12bc5fb3c8a5aa 109
+src/content/docs/workers-vpc/configuration/vpc-networks/index.mdx
+  s_77b2f7f8c6d305::t_5dca81da8a43ba 13,51,69,161
+src/content/docs/workers-vpc/examples/connect-to-cloudflare-mesh.mdx
+  s_77b2f7f8c6d305::t_f3827ff56d1abb 11,13,17,119
+src/content/docs/workers-vpc/index.mdx
+  s_77b2f7f8c6d305::t_b87e776aae7a50 39
+src/content/partials/cloudflare-one/gateway/egress-selector-onramps.mdx
+  s_77b2f7f8c6d305::t_12f13e0ab7ee1c 12
+src/content/partials/cloudflare-one/mesh/install-node.mdx
+  s_77b2f7f8c6d305::t_558bfae095caae 7
+src/content/partials/cloudflare-one/tunnel/troubleshoot-private-networks.mdx
+  s_77b2f7f8c6d305::t_1bac5137925147 106
+src/content/partials/networking-services/cloudflare-one-connectivity-options.mdx
+  s_77b2f7f8c6d305::t_3b9fd7f27a5608 64,67,76,78,87,90,310,458
+src/content/warp-releases/linux/ga/2026.6.822.0.yaml
+  s_77b2f7f8c6d305::t_44fe885e0b3d27 15-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "351c8f3a806bf121600267a7519b378b8a98afc7",
+  "prompts": {},
+  "sessions": {
+    "s_77b2f7f8c6d305": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5a4dcdcdffe7sNjaIzZ3uzar9",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Júlio Pinto <jpinto@cloudflare.com>"
+    }
+  }
+}
