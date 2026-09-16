@@ -1,0 +1,85 @@
+src/content/docs/mesh/index.mdx
+  s_b80271d44f545e::t_354bcfc7054a69 19,21
+src/content/docs/mesh/features/index.mdx
+  s_b80271d44f545e::t_5e02ed8e29710b 13,15
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-mesh/features/index.mdx
+  s_b80271d44f545e::t_156c99f119fb3f 1-15
+src/content/partials/cloudflare-one/mesh/pages/guides/connect-client-devices.mdx
+  s_b80271d44f545e::t_1f03315e710989 1-113
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-mesh/features/high-availability.mdx
+  s_b80271d44f545e::t_012a8f124a0781 1-18
+src/content/docs/mesh/features/high-availability.mdx
+  s_b80271d44f545e::t_e06aff7dacd7d3 16,18
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-mesh/get-started/index.mdx
+  s_b80271d44f545e::t_0a2a56094a137c 1-18
+src/content/docs/mesh/best-practices/index.mdx
+  s_b80271d44f545e::t_2e714a68f8bcb7 13,15
+src/content/docs/mesh/features/routes.mdx
+  s_b80271d44f545e::t_338c46ce41adcc 16,18
+src/content/partials/cloudflare-one/mesh/pages/overview.mdx
+  s_b80271d44f545e::t_d89286fff77679 1-63
+src/content/partials/cloudflare-one/mesh/pages/features/high-availability.mdx
+  s_b80271d44f545e::t_35365e90b14b26 1-222
+public/__redirects
+  s_b80271d44f545e::t_a96c4ec67a3df9 692-697
+src/content/docs/mesh/guides/run-mesh-in-containers.mdx
+  s_b80271d44f545e::t_b75f52b84c1106 19,21
+src/content/partials/cloudflare-one/mesh/pages/get-started.mdx
+  s_b80271d44f545e::t_91f5282be91be0 1-261
+src/content/docs/mesh/guides/index.mdx
+  s_b80271d44f545e::t_6d05fe321b2c29 13,15
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-mesh/concepts/index.mdx
+  s_b80271d44f545e::t_2d29095b91e054 1-19
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-mesh/guides/index.mdx
+  s_b80271d44f545e::t_68c5831a709b60 1-15
+src/content/partials/cloudflare-one/mesh/pages/features/overview.mdx
+  s_b80271d44f545e::t_a686c4a6290b51 1-7
+src/content/docs/mesh/guides/connect-client-devices.mdx
+  s_b80271d44f545e::t_acdf88cd7ee99c 16,18
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-mesh/index.mdx
+  s_b80271d44f545e::t_499c59b060c5b7 1-21
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-mesh/best-practices/index.mdx
+  s_b80271d44f545e::t_4c701ba769bb73 1-15
+src/content/partials/cloudflare-one/mesh/pages/guides/overview.mdx
+  s_b80271d44f545e::t_13c0e1474e0541 1-7
+src/content/partials/cloudflare-one/mesh/pages/concepts.mdx
+  s_b80271d44f545e::t_0d758ae1ebb93b 1-115
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-mesh/guides/connect-client-devices.mdx
+  s_b80271d44f545e::t_a9b5a571018441 1-18
+src/content/partials/cloudflare-one/mesh/pages/best-practices.mdx
+  s_b80271d44f545e::t_db0b86be96c3bb 1-144
+src/content/docs/mesh/concepts/index.mdx
+  s_b80271d44f545e::t_229923ca338c44 17,19
+src/content/partials/cloudflare-one/mesh/pages/features/routes.mdx
+  s_b80271d44f545e::t_730cdd9fb2006c 1-301
+src/content/partials/cloudflare-one/mesh/pages/guides/run-mesh-in-containers.mdx
+  s_b80271d44f545e::t_98cc3eb80c4be3 1-434
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-mesh/guides/run-mesh-in-containers.mdx
+  s_b80271d44f545e::t_b325575374dd72 1-21
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-mesh/features/routes.mdx
+  s_b80271d44f545e::t_7a6c6e80a610ed 1-18
+src/content/docs/mesh/get-started/index.mdx
+  s_b80271d44f545e::t_706d402f7101e3 16,18
+src/content/docs/mesh/platform/index.mdx
+  s_b80271d44f545e::t_16e0a2dca8d162 11,13
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-mesh/platform/index.mdx
+  s_b80271d44f545e::t_7733ca80ac60df 1-13
+src/content/partials/cloudflare-one/mesh/pages/platform.mdx
+  s_b80271d44f545e::t_3787385ccc3464 1-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "214873f2b1c44b6023793fd798c922cd372e5e40",
+  "prompts": {},
+  "sessions": {
+    "s_b80271d44f545e": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5a1fc96dffeagDi0VaszAKHJw",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Júlio Pinto <jpinto@cloudflare.com>"
+    }
+  }
+}
