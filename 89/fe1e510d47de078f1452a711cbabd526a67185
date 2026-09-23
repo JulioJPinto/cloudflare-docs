@@ -1,0 +1,19 @@
+src/content/partials/cloudflare-one/mesh/pages/get-started.mdx
+  s_c5b746ebd8fe0a::t_0d68ff93771168 39-43,159,168-170,174,205
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "89fe1e510d47de078f1452a711cbabd526a67185",
+  "prompts": {},
+  "sessions": {
+    "s_c5b746ebd8fe0a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f3787e5c0ffetH2jWDxeWspV28",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Júlio Pinto <jpinto@cloudflare.com>"
+    }
+  }
+}
