@@ -1,0 +1,45 @@
+src/components/react/mesh/MeshBidirectional.tsx
+  s_ac1701643ad899::t_df2d85df547395 1-230
+src/components/react/mesh/MeshRoutes.tsx
+  s_435bff4982016b::t_f25bab39621dc0 1-282
+src/components/react/mesh/PacketPulse.tsx
+  s_ac1701643ad899::t_2f7076d4ae428e 1-38
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-mesh/guides/connect-client-devices.mdx
+  s_6a9f8224cd84ac::t_cc23ab2c0bb157 3-4,10,14,19-22
+src/content/docs/mesh/guides/connect-client-devices.mdx
+  s_6a9f8224cd84ac::t_a5074e46e34de8 3-4,10,14,19-22
+src/content/partials/cloudflare-one/mesh/pages/features/routes.mdx
+  s_ac1701643ad899::t_fa1227ef8d56e4 5-12,40,158,160,201-204
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "029b2695307924fb8d57826e58057ea176f0047b",
+  "prompts": {},
+  "sessions": {
+    "s_435bff4982016b": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f1862fc9fffepza65gjEupbZ4k",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Júlio Pinto <jpinto@cloudflare.com>"
+    },
+    "s_6a9f8224cd84ac": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f2760bd8effeD5C3KAtvDZgmR4",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Júlio Pinto <jpinto@cloudflare.com>"
+    },
+    "s_ac1701643ad899": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f177d4e5dffe2LEAmkL1y17oA8",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "Júlio Pinto <jpinto@cloudflare.com>"
+    }
+  }
+}
