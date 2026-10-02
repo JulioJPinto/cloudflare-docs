@@ -1,0 +1,2165 @@
+.agents/references/components.md
+  s_09253df7164ff9::t_300e126fdcf139 89,105-108,112-120,123-124,489-503,514-521,530,653,762-775,784-787,790
+.flue/AGENTS.md
+  s_09253df7164ff9::t_b5a3ee5cd0d799 1,3,5,7-11,13,15,17-24,26,28,30-34,36,38,40,42,44-46,48,50,52,54,56-60,62,64,66,68,70-74,76,78,80,82,84,86,88,90,92,94,96,98-105,107,109,111,113,115-119,121,123,125,127,129,131,133,135,137-140,142,144,146,148-151,153,155,157-158,161,163-171,173,175,177,179,181-185
+.flue/agents/code-reviewer.ts
+  s_09253df7164ff9::t_1e768c7ab38ea6 4-7,9-18,20-23,25-26,28,30-35,38-46,48,51-53
+.flue/agents/comment-spam-filter.ts
+  s_09253df7164ff9::t_ede76d4fc315ff 4,6-10,13-15,18-26,28,30-31,33,35-38,40,42-44,46-47,49-50,52-53,57,59,62-68,71,74-76
+.flue/agents/conventions-reviewer.ts
+  s_09253df7164ff9::t_4d9391325e6d75 4-6,8-20,24-28,31-37,39,43-44
+.flue/agents/dependabot-reviewer.ts
+  s_09253df7164ff9::t_bad2ebcfaed1a8 4,6,12,17,25-31,40,56-69,75-76,79-80,82,87,90-91,98,101-102,114-118,125-126
+.flue/agents/rebase-conflict-resolver.ts
+  s_09253df7164ff9::t_20ea32144e3e76 4,6,12,19,27-33,41,48-68,72,75-79,81,86,100,103-104,113-117,124-125
+.flue/agents/review-judge.ts
+  s_09253df7164ff9::t_62bb30478afd2e 4-6,8-21,28-29,31,33-39,42-43,46-50,52,55-57
+.flue/agents/spam-filter.ts
+  s_09253df7164ff9::t_807c28fb1b8677 4,9-10,19-25,28,44-49,53-54,72,75-81,88-89
+.flue/agents/style-guide-reviewer.ts
+  s_09253df7164ff9::t_b9eef2de9f53ee 1-53
+.flue/app.ts
+  s_09253df7164ff9::t_27b6d0b52f261c 7,20-23,29-30,32,34,63,75-76,102-103,126-127,213-214,216,218,227-228,235
+.flue/bin/clear-r2-pr-data.ts
+  s_09253df7164ff9::t_75e7e3cc03ca2e 2-3,10,17-18,27-31,73-76
+.flue/bin/dotenv.ts
+  s_09253df7164ff9::t_af22b94e323763 1-29
+.flue/bin/replay-dependabot.ts
+  s_09253df7164ff9::t_afafa5a5325777 1-97
+.flue/bin/replay-prs.json
+  s_09253df7164ff9::t_1750f560a1829c 1-17
+.flue/bin/replay.ts
+  s_09253df7164ff9::t_50f73aa993f1ca 1-8,10-53,55-72,74-106,109-110,114-115,118-141,144-147,149-180
+.flue/bin/run-evals.ts
+  s_09253df7164ff9::t_2bb688592c9471 8,14
+.flue/cloudflare.ts
+  s_09253df7164ff9::t_ef76ca99bea141 3,5-9,11-15,17-24,26-34,36-44,52-62,64-68,72-73,76,78-83,85-93,95-105,107-116,118-150,152-159,161-190,192-210,213-231,240,243-246,248,252-255
+.flue/evals/code-reviewer.eval.ts
+  s_09253df7164ff9::t_4b7ed514f03dba 1-54
+.flue/evals/comment-spam-filter.eval.ts
+  s_09253df7164ff9::t_4f3cc08bc4cc4e 4,9,11-13,17-20,23-31,33-34,36-43,46-54,56-72,74-77,79,83,85-92,95-101,103-113,115-117,119
+.flue/evals/conventions-reviewer.eval.ts
+  s_09253df7164ff9::t_7d81b99b5b8035 2-6,8-13,15-29,31-76,78-98,100-103
+.flue/evals/harness.ts
+  s_09253df7164ff9::t_f53cee9da7d9f4 6-9,16-17,20-21,144-145,158-159
+.flue/evals/mocks/github-repo-tools.ts
+  s_09253df7164ff9::t_cb1fe64d2ab01a 2,4-7,13-17,19,26,28-33,40
+.flue/evals/review-fixtures.ts
+  s_09253df7164ff9::t_2b3f9f7e5fb1d9 1-142
+.flue/evals/review-judge.eval.ts
+  s_09253df7164ff9::t_a7164f8021ee04 2-8,10-25,27-58,60-142,144-149,151-158,160-165,167-191,193-201,203-222,225-322,324-358,360-372
+.flue/evals/style-guide-reviewer.eval.ts
+  s_09253df7164ff9::t_9b30a50353c5bf 3-6,8,10-12,14-27,29-47,49-53,56-58,60,62-70,72-74
+.flue/lib/agents/agent-step.test.ts
+  s_09253df7164ff9::t_5842eea7795fed 1,3,5-9,11-22,24-26,29-36,38-47
+.flue/lib/agents/agent-step.ts
+  s_09253df7164ff9::t_196778b8a1d99c 1-2,4,6,8-9,11-22,24-29,31-34,36-37,39-41,43-52,54-55,58-70,73-95,97-117,119-120,122-147
+.flue/lib/agents/durability.ts
+  s_09253df7164ff9::t_d8401c240994f1 1-23
+.flue/lib/agents/instructions.test.ts
+  s_09253df7164ff9::t_59d73e67f49bd9 1-14
+.flue/lib/agents/instructions.ts
+  s_09253df7164ff9::t_cbc05c5ffbc39f 1-21
+.flue/lib/agents/models.ts
+  s_09253df7164ff9::t_d622052fbbaaae 1-3
+.flue/lib/agents/review-rules.test.ts
+  s_09253df7164ff9::t_f84324559e93ca 1-21
+.flue/lib/agents/review-rules.ts
+  s_09253df7164ff9::t_41653fd690cdeb 1-57
+.flue/lib/agents/submit-result.ts
+  s_09253df7164ff9::t_7b9e16f935054b 7,9-21,25-27,29-30,36-37,39,43-45
+.flue/lib/bot-role.ts
+  s_09253df7164ff9::t_810dcd98a2b99c 1
+.flue/lib/changelog-date-check.test.ts
+  s_09253df7164ff9::t_73bd4441b85822 181-184,192-204,207-208,238
+.flue/lib/changelog-date-check.ts
+  s_09253df7164ff9::t_7aad2ac0b23e6f 131-132,134
+.flue/lib/comment-spam.test.ts
+  s_09253df7164ff9::t_0e57b6444df873 1-223
+.flue/lib/comment-spam.ts
+  s_09253df7164ff9::t_1bb89e85247731 1-122,124-141,145-166,169-196
+.flue/lib/dependabot-review.test.ts
+  s_09253df7164ff9::t_16b3da87f463e7 1-166
+.flue/lib/dependabot-review.ts
+  s_09253df7164ff9::t_b31521ed903b3c 31-40,43-50,56-65,122-208,215,219-230,239,242-266,268-274,277-296,300,314-320
+.flue/lib/dev-review-routes.test.ts
+  s_09253df7164ff9::t_100f83854d7d16 1-7
+.flue/lib/dev-review-routes.ts
+  s_09253df7164ff9::t_d64b9c86b3d8f8 1-118
+.flue/lib/draft-stale.test.ts
+  s_09253df7164ff9::t_8bb6f9063bd7a0 1,4-6,8,10-12,14-34,36,38-40,42-104,106-107,109-112,115,117-123,125-128,131-141,143-223,225-412,416-420,423-424,430-450,452,456-472,475-476,481-695
+.flue/lib/draft-stale.ts
+  s_09253df7164ff9::t_2192afb47d4b3b 4,8-9,11-13,15,17-18,25,49-85,102-111,161-316,318,325,328-333,370-371,377-393,404-406,423-429,434,462-464,466-467,491-539
+.flue/lib/github-repo-tools.test.ts
+  s_09253df7164ff9::t_e7d544c1909a7f 1-75
+.flue/lib/github-repo-tools.ts
+  s_09253df7164ff9::t_e42c47a6527cb1 10,33,68,73,89-145,147,161-164,166-175,198-201,213-225,228,231-238,285,340,444
+.flue/lib/github.test.ts
+  s_09253df7164ff9::t_eaa7c340dbe711 5,8-11,139-347
+.flue/lib/github.ts
+  s_09253df7164ff9::t_14a79a1230b3b3 3,45,205-227,388-396,398-430,447-540
+.flue/lib/pipeline-entry.ts
+  s_09253df7164ff9::t_490ba0ecee293c 14,26-28,37,45-46,57,61,102,105,107,121-128,150-166,209,307-315
+.flue/lib/rebase-conflict.test.ts
+  s_09253df7164ff9::t_23e5ccd38e2d98 2-5
+.flue/lib/rebase-conflict.ts
+  s_09253df7164ff9::t_a2e285f261bea1 4,11-12,72-78,426
+.flue/lib/review/agent-input.test.ts
+  s_09253df7164ff9::t_542b8623b07ea6 1-129
+.flue/lib/review/agent-input.ts
+  s_09253df7164ff9::t_b5e48a8a789837 2-23,26-38,40-51,53-57,60-67,69-106,109-120,123-148,150-160,163-251
+.flue/lib/review/bot-comment.test.ts
+  s_09253df7164ff9::t_63a43816857747 1-23
+.flue/lib/review/bot-comment.ts
+  s_09253df7164ff9::t_7eff1eaa22773b 1-17
+.flue/lib/review/diff/code-lines.test.ts
+  s_09253df7164ff9::t_1d81001daf94ad 1-88
+.flue/lib/review/diff/code-lines.ts
+  s_09253df7164ff9::t_101a59e7f258bc 1-85
+.flue/lib/review/diff/comments.ts
+  s_09253df7164ff9::t_1e79a4158b6947 1-86
+.flue/lib/review/diff/diff.test.ts
+  s_09253df7164ff9::t_18d22d135bde33 1-25,28-34,36-39,41-46,48-116,118,120-134,136-137,139-143,146-154,156-163,166-172,174-185,187,189-204,206-209,211,214-218,220-244,246,249-270,272-273,275-277,279-282,284,286-287,289-292,295-307,309,312-319,321-337,339-358,361-363,365-368,371-374,377-381,384-387,389-396,398-405,407-412,414-421,423-426,429-431,433-437,440-444,447-448,450
+.flue/lib/review/diff/filter.ts
+  s_09253df7164ff9::t_7f50c997e0e1a4 1-3,5,7-23,26-38,40-48,50-74
+.flue/lib/review/diff/findings.ts
+  s_09253df7164ff9::t_13092a64a0220f 1-54
+.flue/lib/review/diff/fingerprint.ts
+  s_09253df7164ff9::t_86210a951fc7e5 1-32
+.flue/lib/review/diff/format.ts
+  s_09253df7164ff9::t_e9246eddce6684 1-134
+.flue/lib/review/diff/patch.ts
+  s_09253df7164ff9::t_84b05cfa0fc34a 1-46
+.flue/lib/review/diff/relocate-full.test.ts
+  s_09253df7164ff9::t_5039b679d344f4 1-6,8-29,31-32,34-40,44-47,49-64,67-80,83-96
+.flue/lib/review/diff/relocate.ts
+  s_09253df7164ff9::t_4879dac23e1599 1-54
+.flue/lib/review/diff/target-skip.test.ts
+  s_09253df7164ff9::t_ddcec8d51395cb 1-86
+.flue/lib/review/diff/target.ts
+  s_09253df7164ff9::t_515f742a07373e 1-179
+.flue/lib/review/flow.test.ts
+  s_09253df7164ff9::t_b1b5b93de565fb 1-460
+.flue/lib/review/hash.ts
+  s_09253df7164ff9::t_b90aaf72d009db 1-23
+.flue/lib/review/pipeline-reraise.test.ts
+  s_09253df7164ff9::t_fee603f765ef3f 2-3,5-29,32-51,55-63,67-71,75-86
+.flue/lib/review/pipeline.test.ts
+  s_09253df7164ff9::t_e47d5fc5a5106f 3-60,63-76,79-97,99-104,106-107,109,111-121,124-132,134-145,147-154,156-165,168-176,178-183,185-193,195-210,212-249,251-324
+.flue/lib/review/pipeline.ts
+  s_09253df7164ff9::t_83140b0ff85c9a 1-244
+.flue/lib/review/read-patch-r2.ts
+  s_09253df7164ff9::t_249029160909e9 1-8,10-14,16-25
+.flue/lib/review/read-patch.test.ts
+  s_09253df7164ff9::t_75a26b71d98a33 1-44
+.flue/lib/review/read-patch.ts
+  s_09253df7164ff9::t_c7925c1d7cf27c 1,3-6,8,10-13,15-17,19-51,53-60,62-70,72-97
+.flue/lib/review/render.test.ts
+  s_09253df7164ff9::t_eb940093ad27da 3-13,17,20,22-34,36-46,48,50-58,63,65-79,83-108,110-111,113-131,133-144,148-155,157-158,162-172,174-203,206-220,223-225,227-228,232-234,236-250,252,256-261,264-268,270-271,273-277,281-289
+.flue/lib/review/render.ts
+  s_09253df7164ff9::t_e8c7e1746a6996 1-24,26-52,54-58,60-64,66-81,85-86,88-97,100-102,105-112,115-118,120-128,130-133,135,137-139,141-142,147,149-165,168-180,185-187,190-193,199-217,219-221,226-228,234-249,251-253,255-272,274-275,278,280,282-298,300-307,309,311,313-314,317-318,320-323,325-326,330-351,353-361,364-380,382-391,395-399,401-413,417-418,420-435,438-440,442-448,450-455
+.flue/lib/review/run-agents.ts
+  s_09253df7164ff9::t_414e38e1265323 1-6,8-13,15-18,20-21,23-31
+.flue/lib/review/run-context.ts
+  s_09253df7164ff9::t_0dd487955bade2 1-143
+.flue/lib/review/run-finish.test.ts
+  s_09253df7164ff9::t_a4a656511bb6ae 1-372
+.flue/lib/review/run-finish.ts
+  s_09253df7164ff9::t_33f95fed4d5366 1-444
+.flue/lib/review/run-start.test.ts
+  s_09253df7164ff9::t_49d0fde1e276b1 1-301
+.flue/lib/review/run-start.ts
+  s_09253df7164ff9::t_5395ab972cda21 1-315
+.flue/lib/review/start.test.ts
+  s_09253df7164ff9::t_650385b6207cb2 1-56
+.flue/lib/review/start.ts
+  s_09253df7164ff9::t_cf0404c25042c8 3-25,27-36,38-43,45-49,51-55,58-61
+.flue/lib/review/state.test.ts
+  s_09253df7164ff9::t_ae4237e75c6864 1-130
+.flue/lib/review/state.ts
+  s_09253df7164ff9::t_7d1ff49bcdbd87 1-26,28-47,49,51-64,67,69-81,83-90,92,95-178,180-198,200-201,203-211,216,218,223-224,226-228
+.flue/lib/review/testing/r2-fake.ts
+  s_09253df7164ff9::t_0bdd5c16dece9b 1-53
+.flue/lib/review/types.test.ts
+  s_09253df7164ff9::t_f626f6b7a71d03 1,3-7,9-13,16-17,20-22,26-44,46-48,51-62,64-66,69-72,74-75,78-81,83-84,87-90,92-103
+.flue/lib/review/types.ts
+  s_09253df7164ff9::t_f4e4687a1f27a3 1-348
+.flue/lib/reviewer-recommendations.test.ts
+  s_09253df7164ff9::t_19050d0fd44ea3 760,773,779-782
+.flue/lib/reviewer-recommendations.ts
+  s_09253df7164ff9::t_0c19f84d088afb 421-423,431-433
+.flue/lib/run-reviewer-recommendations.test.ts
+  s_09253df7164ff9::t_dd768ef9d5f4bf 1,6,11-16,75-92
+.flue/lib/run-reviewer-recommendations.ts
+  s_09253df7164ff9::t_f5ce43099bed3f 148-155,164,170
+.flue/lib/spam-filter.ts
+  s_09253df7164ff9::t_ab263401804a4f 65
+.flue/lib/webhook-classify.test.ts
+  s_09253df7164ff9::t_b93294794321ba 139,142-149,161-271
+.flue/lib/webhook-classify.ts
+  s_09253df7164ff9::t_f5314d7261ccb1 4,52-60,144-148,150,154-178,195-196,208
+.flue/orchestrators/comment-spam-workflow.ts
+  s_09253df7164ff9::t_ed96124e07d59b 2,4-7,9-12,14-21,23-42,45-63,65-87,89-91,94-154,156-157
+.flue/orchestrators/dependabot-review-workflow.ts
+  s_09253df7164ff9::t_ee945a043e51f9 4,11,20-25,35,49-50,156-170,173-180,201,207,238-241,271-274,289-291
+.flue/orchestrators/ingest-workflow.ts
+  s_09253df7164ff9::t_d10b7a2b7e27d2 4-5,18-19,25-46,61,77-84,86-100,102,104-119,121-189,199-207
+.flue/orchestrators/rebase-workflow.ts
+  s_09253df7164ff9::t_b416134edebc36 4-5,19,26-30,33,39,44,47-50,61-62,67-74,84,86-87,91,93-94,178,198,215,264,301,323,328,332-348,359,377,398,408,452-460
+.flue/package.json
+  s_09253df7164ff9::t_df2fe8a56aa0ad 17-18,20,24-26,28,31
+.flue/pnpm-lock.yaml
+  s_09253df7164ff9::t_66b59525d0545e 12-13,15-16,21-22,28-29,31-32,34-35,40-41,44,47,49-50,306-307,311,313-314,319-320,325-326,331-332,337-338,343-344,350-351,354-355,518-519,523-524,527-528,1247-1249,1302-1309,1389-1392,1489-1491,1645-1652,1684-1689,1754-1755,1888-1890,1926-1927,2042-2046,2258-2265,2269-2272,2339-2340,2400-2401,2512-2513,2517-2518,2522,2527-2530,2550-2553,2559-2566,2963-2964,2970,2974,2976,2978-2979,2981-2983,2990,2993,2996,2999,3002,3005,3011,3013-3014,3016,3026,3030,3038,3130,3132-3133,3140,3142-3151,3154-3156,3158,3162,3164-3165,3179,3181-3184,3186-3187,3191,3199,3201-3204,3207,3209-3221,3223,3225-3227,3234,3241,3247,3249,3251,3253,3361-3362,3367,3372,3377,3382,3417-3418,3436,3446,3469-3470,3625,3628,3632,3701,3703-3704,3811,3817,3850,3857,3862,3864,3866,3871,3876,3899-3904,3910-3911,3947,3986-3993,4062-4063,4185,4195,4197,4199,4214,4263-4266,4309-4311,4339-4340,4351-4352,4360-4361,4371,4419,4493-4496,4525,4530,4541,4551-4552,4616-4617,4623-4627,4634-4635,4713,4722,4741,4744-4745,4795,4907-4908,4912-4913,4915-4916,4924-4934,4940-4943,4950,4955,4982-4983,4996,5010,5018,5043-5044,5081,5094,5099,5104,5107,5124,5143,5145-5149,5151,5154,5157,5160,5162,5169-5174,5179-5182,5186-5196
+.flue/prompts/code-reviewer.md
+  s_09253df7164ff9::t_74e60aeda67170 1-11
+.flue/prompts/code-rules.md
+  s_09253df7164ff9::t_cf6b9de6782f5c 1-18
+.flue/prompts/comment-spam-filter.md
+  s_09253df7164ff9::t_d0ebd89215bdb5 1-46
+.flue/prompts/conventions-reviewer.md
+  s_09253df7164ff9::t_6ef4522a5190f3 1-9
+.flue/prompts/conventions-rules.md
+  s_09253df7164ff9::t_cc1ceee89fef5a 1-9
+.flue/prompts/dependabot-review.md
+  s_09253df7164ff9::t_3a20aef61703d2 13,20,22,26,28,30-36,38,42-59,61,63,65,67-69,71,73,75-79,81,83,85-92,94-96,98-99,101-102
+.flue/prompts/rebase-conflict.md
+  s_09253df7164ff9::t_7504a11b6cbd94 3,7,9,11,13,15,17,19,23,25,27,30,34,40,42,44-47,52
+.flue/prompts/repo-tools.md
+  s_09253df7164ff9::t_1fa18fb6488c42 1-6
+.flue/prompts/review-judge.md
+  s_09253df7164ff9::t_1a7cb25de3a40e 1-21
+.flue/prompts/reviewer-shared.md
+  s_09253df7164ff9::t_0a7bc10321b6c3 1-36
+.flue/prompts/spam-filter.md
+  s_09253df7164ff9::t_edd59d630a74c9 1,5,13,16,23,31,35
+.flue/prompts/style-guide-reviewer.md
+  s_09253df7164ff9::t_65035d7a0cf87b 1-9
+.flue/prompts/style-guide/RULE-AUTHORING.md
+  s_09253df7164ff9::t_7e6228cb0bde8c 3,5,7-12,16,19,27-28,32-35,39
+.flue/prompts/style-guide/always/core-content.md
+  s_09253df7164ff9::t_396c249de86c7c 8-20,26,40,53-54,60,66,68-70,76,82-87,95-96,101-103,107-108,113-114,118-119
+.flue/prompts/style-guide/components/anchor-heading.md
+  s_09253df7164ff9::t_bcf728ccd6dda0 8
+.flue/prompts/style-guide/components/api-request.md
+  s_09253df7164ff9::t_d8761e16107b44 8
+.flue/prompts/style-guide/components/curl.md
+  s_09253df7164ff9::t_52fbf33ad29499 8
+.flue/prompts/style-guide/components/dash-button.md
+  s_09253df7164ff9::t_a1e9a75499dc7d 8
+.flue/prompts/style-guide/components/extra-flag-details.md
+  s_09253df7164ff9::t_97a97fd780f46a 8
+.flue/prompts/style-guide/components/file-tree.md
+  s_09253df7164ff9::t_a1914e4e12adfb 8
+.flue/prompts/style-guide/components/markdown.md
+  s_09253df7164ff9::t_24271babba1442 8
+.flue/prompts/style-guide/components/package-managers.md
+  s_09253df7164ff9::t_dd955be40b8b1c 8
+.flue/prompts/style-guide/components/steps.md
+  s_09253df7164ff9::t_9c5b4cac60ef80 8-9
+.flue/prompts/style-guide/components/subtract-ip-calculator.md
+  s_09253df7164ff9::t_35d888881ecb19 8
+.flue/prompts/style-guide/components/tabs.md
+  s_09253df7164ff9::t_5e8bb5e3cece4a 8-9
+.flue/prompts/style-guide/components/typescript-example.md
+  s_09253df7164ff9::t_1358eb06b1d0bd 8-10
+.flue/prompts/style-guide/components/wrangler-config.md
+  s_09253df7164ff9::t_d7a6c713524561 8-9,19-20
+.flue/prompts/style-guide/conditional/code-blocks.md
+  s_09253df7164ff9::t_c3906a039be9a0 8-9,13,20,24,30,32-34
+.flue/prompts/style-guide/conditional/frontmatter.md
+  s_09253df7164ff9::t_7d8ddd987c6de9 8,14,22
+.flue/prompts/style-guide/conditional/images.md
+  s_09253df7164ff9::t_c44c2d31cfe470 8-11,24-27
+.flue/prompts/style-guide/conditional/imports.md
+  s_09253df7164ff9::t_fa044beb7c1409 8-9
+.flue/prompts/style-guide/conditional/links.md
+  s_09253df7164ff9::t_b7702e6c449122 8-14
+.flue/vite.config.ts
+  s_09253df7164ff9::t_41778c22226531 4-5,16-20,24-29,36,39-43,53-92,94-123,125-165
+.flue/vitest.config.ts
+  s_09253df7164ff9::t_be467e62154ba7 4-5
+.flue/vitest.evals.config.ts
+  s_09253df7164ff9::t_24658ab0c7a5ba 2-11,17
+.flue/wrangler.jsonc
+  s_09253df7164ff9::t_74bc96f7ab0b9c 7,10,60-64,195-218
+.github/CODEOWNERS
+  s_09253df7164ff9::t_2446f0138306c1 20,25,27-30,75,89-95,204-212,291,308-309,320,328-329,447-454,474-481,524-531,602-607,678,680,682-683,740,742-743,745,748,750,752-753,1037-1041,1087-1100,1117-1124
+.github/labeler.yml
+  s_09253df7164ff9::t_d8d829dd275d18 719-723,827,829,885,887,892,894
+.github/workflows/anchor-link-audit.yml
+  s_09253df7164ff9::t_9f23516073b917 24
+.github/workflows/auto-format-build.yml
+  s_09253df7164ff9::t_7c85c5ecb57950 46
+.github/workflows/bonk.yml
+  s_09253df7164ff9::t_f85462b89e71e8 57
+.github/workflows/bump-openapi-schema.yml
+  s_09253df7164ff9::t_afc9b79536a0c0 1-160
+.github/workflows/ci.yml
+  s_09253df7164ff9::t_743d273998c4d1 49,133,195,233,268
+.github/workflows/flue-ci.yml
+  s_09253df7164ff9::t_ad41c24d2de23a 29,61
+.github/workflows/flue-deploy.yml
+  s_09253df7164ff9::t_38667f5aa0c366 29
+.github/workflows/publish-production.yml
+  s_09253df7164ff9::t_81a22fa920e8e4 23
+.gitignore
+  s_09253df7164ff9::t_65ed0855209d8d 8,69
+AGENTS.md
+  s_09253df7164ff9::t_5dc1fc0d82a87c 48,53-60
+bin/bump-openapi-lock.ts
+  s_09253df7164ff9::t_a53f889e2094ad 1-458
+bin/config-explorer-jsdoc.mjs
+  s_09253df7164ff9::t_62ba6614bb7491 1-40
+bin/config-explorer-jsdoc.node.test.ts
+  s_09253df7164ff9::t_f2d44ec0b60626 1-56
+bin/fetch-openapi.ts
+  s_09253df7164ff9::t_c0e7314a740ea5 5-7,25-31,34,37
+bin/generate-cf-config-reference.mjs
+  s_09253df7164ff9::t_446ee6277ac31e 1-307
+openapi.lock.json
+  s_09253df7164ff9::t_51499b2a737551 1-5
+package.json
+  s_09253df7164ff9::t_0b2d5b456b3052 8,15,40-41,43,45,55,57-59,64-65,67,72-73,76-77,91,95-96,98-99,120,127,130,132-133,135,143,152,156,158-159
+pnpm-lock.yaml
+  s_09253df7164ff9::t_f36ccd64bf1df3 25,27-28,33-34,36-37,39-40,53-55,57-58,61,63-64,77-82,90-91,93-94,121,135-136,147-148,150-151,154-157,159-160,222-223,243-244,251-253,258-259,261-262,265,267-268,291-292,318-319,330-331,334-337,339-340,396-397,402-407,414-419,426-431,439-445,453-459,467-473,481-487,493-497,504-509,516-521,526-529,534-537,562-563,565-566,571,580-581,586,589-591,810-818,823-824,846-848,899-910,929-940,959-970,989-1000,1019-1032,1065-1067,1077-1079,1514-1519,1546-1547,1549-1550,1577-1582,1595-1600,1611-1615,1626-1630,1641-1645,1658-1663,1676-1681,1694-1699,1712-1717,1730-1735,1748-1753,1766-1771,1784-1789,1804-1810,1825-1831,1846-1852,1867-1873,1888-1894,1909-1915,1930-1936,1951-1957,1966-1969,1980-1984,1997-2002,2015-2020,2033-2038,2200-2203,2332-2336,2617-2618,2654-2655,2658,2662-2663,2669-2670,2675-2676,2679-2680,2685-2686,2692-2693,2696-2697,2702-2703,2709-2710,2723-2724,2727-2737,2934-2935,2980-2982,3027-3028,3033-3037,3074-3075,3078-3079,3172-3185,3192-3194,3448-3449,3499-3502,3722-3724,3858-3859,3883-3885,4095-4098,4156-4157,4358-4360,4540-4542,4546-4547,4799-4808,4849-4850,4915-4916,4934-4937,4985-4987,4992-4994,5070-5071,5081-5082,5142-5143,5147-5148,5403-5406,5454-5462,5546-5548,5652-5653,5746-5747,5792-5794,5966-5967,6221-6233,6244-6245,6249,6331-6333,6366-6367,6408,6410,6419,6423-6424,6426-6427,6444-6446,6450-6452,6456-6458,6462-6464,6468-6470,6474-6476,6480-6483,6485,6491-6497,6501-6503,6507-6510,6518,6525-6540,6545-6548,6564,6568,6578,6585-6586,6617,6624,6627-6628,6637,6642-6643,6647,6649,6652,6869-6880,6883,6885-6886,6895,6922,6942-6950,6963,6967,6969,6972,6974,6976,6983,6990-6991,7007-7012,7022-7027,7034-7040,7052-7057,7067-7073,7112-7117,7133-7137,7439-7442,7465,7469,7503-7507,7518-7522,7533-7537,7544-7546,7553-7555,7562-7564,7571-7573,7580-7582,7589-7591,7598-7600,7607-7609,7616-7618,7625-7627,7638-7642,7653-7657,7668-7672,7683-7687,7698-7702,7713-7717,7728-7732,7743-7747,7758-7762,7773-7777,7784-7786,7793-7795,7802-7804,7879,7881,7940-7941,7953,8027-8028,8118-8122,8232,8237,8417,8437,8450,8452,8455-8459,8468,8470-8473,8480,8482-8483,8489,8491-8492,8494,8498,8500-8502,8510,8512,8514-8517,8527,8530-8532,8538,8540,8552,8554-8555,8566,8572,8678,8783-8784,8797,8799,8801,8807,8809,8811,8823,8841,8850,8857-8858,8864,8924,8947,8970,8974-8985,9013,9015,9017-9018,9108-9115,9132-9137,9408,9466-9467,9765-9766,9780-9782,9787,9846,9963,9991-9992,10134,10303-10304,10348,10350,10541-10542,10668-10672,10675,10876,11053-11054,11215,11218,11228,11231,11241-11266,11293,11363,11383-11384,11435-11436,11441-11445,11518,11528,11530,11532,11538,11540,11542,11544,11546,11606,11973-11986,12083,12114-12147,12239-12240,12369,12465,12467-12470,12505-12509,12650,12658,12665,12667,12669,12672,12683,12686,12689,12692,12722,12727,12887-12910,12921,12927,12930,12933,12936,12938,12969,12999-13000
+pnpm-workspace.yaml
+  s_09253df7164ff9::t_f9097646f391b0 9-11
+public/__redirects
+  s_09253df7164ff9::t_b0d02a0648ca05 13-14,19-22,64-66,651-657,670,677,680,727-758,1621-1624,1703-1705,2109-2111,2114-2124,2508,2700,2938-2940,2972-2977,3203-3209
+public/icons/agents/devin/dark.svg
+  s_09253df7164ff9::t_c1cd3f3e3824eb 1
+public/icons/agents/devin/light.svg
+  s_09253df7164ff9::t_586b9cecce4305 1
+public/icons/agents/vibe/dark.svg
+  s_09253df7164ff9::t_12416f1daa6791 1-13
+public/icons/agents/vibe/light.svg
+  s_09253df7164ff9::t_3ea847c90c689c 1-13
+src/assets/images/durable-objects/pending-io-keep-alive.svg
+  s_09253df7164ff9::t_9d5aafcd7ab6dc 1-48
+src/assets/images/reference-architecture/ai-vibe-coding/ai-platform-sandbox.svg
+  s_09253df7164ff9::t_665878918ecb1c 1
+src/components.ts
+  s_09253df7164ff9::t_174b58983798ba 23,25-26,29,69-79
+src/components/CopyPromptButton.astro
+  s_09253df7164ff9::t_eede42c1ccdae2 2,10,23,41,76
+src/components/CopyPromptButton.astro.test.ts
+  s_09253df7164ff9::t_17d11d700f2c1a 1-42
+src/components/PageHead.astro
+  s_09253df7164ff9::t_3a3731f14232b3 231-239
+src/components/agent-setup/CloudflareToolsBanner.astro
+  s_09253df7164ff9::t_5ee895b67cf4f9 4-9,57-70
+src/components/agent-setup/PlatformAccessSection.astro
+  s_09253df7164ff9::t_4c2fa6416834ca 3,5,8-13,16,20,71-82
+src/components/agent-setup/PlatformCliDetails.astro
+  s_09253df7164ff9::t_2f14b6bd6e2c51 1-58
+src/components/agent-setup/agents.ts
+  s_09253df7164ff9::t_3f159d73370b6a 165-198,200-201,203,206,208-209,213-216,225-226
+src/components/cf/AutoconfigDiagram.astro
+  s_09253df7164ff9::t_2754e8537b43a3 11,14-19,99
+src/components/cf/CfCommand.astro
+  s_09253df7164ff9::t_0c1d787be15226 1-32
+src/components/cf/CfNamespace.astro
+  s_09253df7164ff9::t_72c9a0b4aa5a00 1-18
+src/components/cf/CommandArgument.astro
+  s_09253df7164ff9::t_598834e073a80f 1-46
+src/components/cf/CommandReference.astro
+  s_09253df7164ff9::t_e949cde533928f 1-95
+src/components/cf/Feature.astro
+  s_09253df7164ff9::t_fb6a4e4c07f060 19,22,30-34,53
+src/components/cf/ListTutorials.astro
+  s_09253df7164ff9::t_b7abfa5fe376de 6-9,11-20,23-29,35-40
+src/components/cf/WranglerArg.astro
+  s_09253df7164ff9::t_ff5a311405d032 2-3,7,13
+src/components/cf/WranglerCommand.astro
+  s_09253df7164ff9::t_72b9f51838b922 15-21,25,27-28,31-36,68-90,92-100,102-125,128-143
+src/components/cf/WranglerConfig.astro
+  s_09253df7164ff9::t_2f4c66a03a9aa0 15,21,24-32,49-51,66,71-74,96-125
+src/components/cf/WranglerNamespace.astro
+  s_09253df7164ff9::t_02b745df9eaf7e 11-12,14,18-19,22-28,55-87,89-90
+src/components/cf/cf-command-metadata.ts
+  s_09253df7164ff9::t_448dba03290cc1 1-262
+src/components/cf/command-reference.node.test.ts
+  s_09253df7164ff9::t_45b6eba7c58166 1-102
+src/components/cf/command-reference.ts
+  s_09253df7164ff9::t_b2b6f90f569f90 1-45
+src/components/changelog/ChangelogFeed.astro
+  s_09253df7164ff9::t_c93cfdb83a930c 45-47,61,74,91,94,122-123
+src/components/config-explorer/AnnotatedConfigExplorer.astro
+  s_09253df7164ff9::t_61aff9d4562aaf 2-61,64-551
+src/components/config-explorer/AnnotatedConfigExplorer.astro.test.ts
+  s_09253df7164ff9::t_00abc9aaa23ff9 1-217
+src/components/config-explorer/annotated-config-explorer.ts
+  s_09253df7164ff9::t_0904b7e0974625 1-269
+src/components/config-explorer/annotated-config.node.test.ts
+  s_09253df7164ff9::t_42358762ce8c4e 1,4-10,12-20,23-24,26-30,33-37,39-44,46-59,62-75,79-86,88,90-91,93,95-101,103-108
+src/components/config-explorer/annotated-config.ts
+  s_09253df7164ff9::t_a2fcd49410634e 1-200
+src/components/config-explorer/annotated-snippet.node.test.ts
+  s_09253df7164ff9::t_2f292c2f4d9875 1-756
+src/components/config-explorer/annotated-snippet.ts
+  s_09253df7164ff9::t_58482c7c6eeac2 1-955
+src/components/config-explorer/config-examples.node.test.ts
+  s_09253df7164ff9::t_986430dd2965b1 1-77
+src/components/config-explorer/config-examples.ts
+  s_09253df7164ff9::t_fefc1943f259a3 1-796
+src/components/config-explorer/config-reference.generated.ts
+  s_09253df7164ff9::t_3d82b17d293b8a 1-2270
+src/components/landing/BuildFromScratch.astro
+  s_09253df7164ff9::t_6a93830601681b 6,10-12,48,70,74-75,106-117,123,132-134,155-181
+src/components/landing/BuildFromScratch.astro.test.ts
+  s_09253df7164ff9::t_11dd02427c2a61 1-41
+src/components/landing/ChangelogSection.astro
+  s_09253df7164ff9::t_8e9f973a84a7ff 22-35,43,68-70,75-77,109,112
+src/components/landing/Sidebar.astro
+  s_09253df7164ff9::t_c8b7c8c34c6958 55
+src/components/landing/sidebar-data.ts
+  s_09253df7164ff9::t_28c4078586616f 7-8,27,31,70-73,107,120-131,135,224-230
+src/components/models/ModelBadges.astro
+  s_09253df7164ff9::t_c4d1b10cef80c1 13,16,57-63,66-73,82-93,95-112
+src/components/models/ModelCard.astro
+  s_09253df7164ff9::t_b0db9a36454197 75,87,118-119,137,141-145
+src/components/models/ModelCard.astro.test.ts
+  s_09253df7164ff9::t_221fbd7f73a481 1-94
+src/components/models/ModelCatalog.astro
+  s_09253df7164ff9::t_d51e4b876be449 329-351
+src/components/models/ModelDetailPage.astro
+  s_09253df7164ff9::t_49b09ee8163625 51,73-77,112-114,146,156-160,361,395-445
+src/components/models/ModelFeatures.astro
+  s_09253df7164ff9::t_986c39e5ecfb24 6,8-13,30,47-50,61,134,137-150,211,215-227
+src/components/models/code/ClefCode.astro
+  s_09253df7164ff9::t_8c2cb98cd70af7 1-133
+src/components/react/diagram-weld/shapes.tsx
+  s_09253df7164ff9::t_6c80c9d4565205 73-74,86,90,608-609,618,623-629
+src/components/react/diagram-weld/welding.ts
+  s_09253df7164ff9::t_fe5de03877e9a6 33-37,41-43,45,49-53,55,59-62
+src/components/react/sandbox/BrowserTerminal.tsx
+  s_09253df7164ff9::t_ee949cfac04f66 1-110
+src/components/react/sandbox/PreviewHostname.tsx
+  s_09253df7164ff9::t_fed414cac7a627 1-10,12,14-19,21-62,64-89,91-109,112-113
+src/components/react/sandbox/SandboxCredentials.tsx
+  s_09253df7164ff9::t_91b94bb2962076 1-276
+src/components/react/sandbox/SandboxEnvironments.tsx
+  s_09253df7164ff9::t_e9ff75c87d2a94 1-228
+src/components/react/sandbox/SandboxLifetime.tsx
+  s_09253df7164ff9::t_43e087ed615249 1-278
+src/components/react/sandbox/SandboxSdkVersions.tsx
+  s_09253df7164ff9::t_3df7a406cc2551 1-280
+src/components/react/sandbox/VendorAgentConnections.tsx
+  s_09253df7164ff9::t_34ca947de1904c 1-256
+src/components/react/tunnel/TunnelIdentity.tsx
+  s_09253df7164ff9::t_7fc1b17dac1fbb 1-39,42-67,69-127,129-176,178-179
+src/components/react/tunnel/TunnelKit.tsx
+  s_09253df7164ff9::t_d43bad9d304893 1-190
+src/components/react/tunnel/TunnelOutbound.tsx
+  s_09253df7164ff9::t_5af7ab6857a2ed 1-235
+src/components/react/tunnel/TunnelQuickNested.tsx
+  s_09253df7164ff9::t_7833e2614eda68 1-241
+src/components/react/tunnel/TunnelTraffic.tsx
+  s_09253df7164ff9::t_6693bab1226abc 1-313
+src/components/ui/cli-preference/CliPreferenceRestore.astro
+  s_09253df7164ff9::t_61e4f85b95abd7 1-36
+src/components/ui/cli-preference/CliPreferenceSelector.astro
+  s_09253df7164ff9::t_0081c8955fb915 1-53
+src/components/ui/cli-preference/CliPreferenceSwitch.astro
+  s_09253df7164ff9::t_1fae2d30c4a80d 1-19
+src/components/ui/cli-preference/cli-preference-selector.client.ts
+  s_09253df7164ff9::t_77c9d422e899a0 1-6,8-14,16-25,27-46,48-61,63-75,77-82,84-90,93-94
+src/components/ui/cli-preference/cli-preference.client.node.test.ts
+  s_09253df7164ff9::t_89f52e354ec28e 1-161
+src/components/ui/cli-preference/cli-preference.client.ts
+  s_09253df7164ff9::t_5518e882a188ca 1-99
+src/components/ui/cli-preference/cli-preference.node.test.ts
+  s_09253df7164ff9::t_51a665e9f65951 1-21
+src/components/ui/cli-preference/cli-preference.ts
+  s_09253df7164ff9::t_40869845dc5412 1-5
+src/components/ui/package-managers/PackageManagerTabs.astro
+  s_09253df7164ff9::t_db9d940a915ed7 1-114
+src/components/ui/package-managers/PackageManagers.astro
+  s_09253df7164ff9::t_ecf4c8165f242c 7,9-11,17,22-32,34-37,39-50,53-54,56-67
+src/components/ui/search/Search.astro
+  s_09253df7164ff9::t_86d3a9d5b66f55 210-217,276-277,294
+src/components/ui/sidebar/SidebarGroup.astro
+  s_09253df7164ff9::t_8c609bd12dfcbf 172-181
+src/components/ui/sidebar/SidebarLink.astro
+  s_09253df7164ff9::t_77e07eafd31b88 2,13-14,22,35
+src/components/ui/steps/Steps.astro
+  s_09253df7164ff9::t_3caa03f9affed1 44
+src/content/agent-setup/prompt.md
+  s_09253df7164ff9::t_2851d9bdae6722 6,66,80,96-117,131-196,203,206,210
+src/content/catalog-models/anthropic-claude-opus-5.5.json
+  s_09253df7164ff9::t_69dee766c88be8 1-2084
+src/content/catalog-models/bytedance-seedance-2.0-fast.json
+  s_09253df7164ff9::t_4710c0258231eb 167
+src/content/catalog-models/bytedance-seedance-2.0-mini.json
+  s_09253df7164ff9::t_7808019928f9ee 203
+src/content/catalog-models/bytedance-seedance-2.0.json
+  s_09253df7164ff9::t_731f98799e02a9 278
+src/content/catalog-models/bytedance-seedance-2.5.json
+  s_09253df7164ff9::t_dadc294068b12c 210
+src/content/catalog-models/openai-gpt-6-luna.json
+  s_09253df7164ff9::t_9e807a7cf54a21 1-667
+src/content/catalog-models/openai-gpt-6-sol.json
+  s_09253df7164ff9::t_ac41dc20491487 1-667
+src/content/catalog-models/typesafe-jev.json
+  s_09253df7164ff9::t_fce3e9f0c43719 404
+src/content/catalog-models/unbiased-pareto.json
+  s_09253df7164ff9::t_a8964c08b73d39 41,100,155,218,273,314
+src/content/catalog-models/xai-grok-4.7.json
+  s_09253df7164ff9::t_c098a38a57e60a 2-5,11-13,15,19-24,29,33,36,39,42,44-45,51-53,59-61,63-72,74-75,77-78,84,89,94-95,99-110,113,116,119,121-122,128-130,136,138,140-149,151-152,154-155,161,166,171-172,176,180-181,183-206,208,210,212-213,215-220,222,225,227-228,234-246,248,252-254,256-265,267-268,270-271,277,282,287-288,292,296-325,328,331,333-334,340-342,348-350,352-361,363-364,366-367,373,378,386,388-390,392-394,402,404-409,414,421-422,425-444,446-519,521-534,536-540,542-543,545-581,583-608,610,613-623,626-635,637-647,649-653,655-659,661-824,827-830,839-841,844-888,890-938,940-956,958,961-966,968-971,973-979,988,998-999,1015-1020,1033-1042,1045,1048-1073,1075-1081,1090-1091,1093,1095-1119,1125-1126,1128,1131-1165,1177-1230,1238,1244,1246-1247,1249
+src/content/changelog/1.1.1.1/2026-09-24-root-key-trust-anchor-sentinel.mdx
+  s_09253df7164ff9::t_28b4cefd41ae7e 1-24
+src/content/changelog/access/2026-05-19-cloudflare-as-identity-provider.mdx
+  s_09253df7164ff9::t_5347b19f1241f3 15
+src/content/changelog/access/2026-09-24-mcp-portals-ga.mdx
+  s_09253df7164ff9::t_f95ec324149769 1-21
+src/content/changelog/agent-lee/2026-08-12-agent-lee-take-home-code.mdx
+  s_09253df7164ff9::t_9ab30a25903fd6 1-32
+src/content/changelog/agents/2026-10-01-workers-oauth-provider-1x.mdx
+  s_09253df7164ff9::t_2d32f8db1e3b39 1-122
+src/content/changelog/ai-gateway/2026-09-29-user-insights-task-analysis.mdx
+  s_09253df7164ff9::t_604cb480d817d0 1-19
+src/content/changelog/ai-gateway/2026-09-30-machine-payments.mdx
+  s_09253df7164ff9::t_c0332f0e12ad80 1-31
+src/content/changelog/ai-search/2026-10-01-ai-search-generally-available.mdx
+  s_09253df7164ff9::t_af0ccf4bc2c836 1-42
+src/content/changelog/api-shield/2026-08-27-jwt-validation-limits.mdx
+  s_09253df7164ff9::t_2939ccec130196 1-11
+src/content/changelog/artifacts/2026-10-01-artifacts-open-beta.mdx
+  s_09253df7164ff9::t_caf38114404cb4 1-30
+src/content/changelog/basin-catalog/2025-04-10-r2-data-catalog-beta.mdx
+  s_09253df7164ff9::t_001bc3b6e7b7dd 5-6,11,13,23
+src/content/changelog/basin-catalog/2025-09-25-data-catalog-compaction.mdx
+  s_09253df7164ff9::t_48db1f2c3dad67 5-6,14,28
+src/content/changelog/basin-catalog/2025-10-06-data-catalog-table-compaction.mdx
+  s_09253df7164ff9::t_54e218109e3283 5-6,12,25
+src/content/changelog/basin-catalog/2025-12-18-r2-data-catalog-snapshot-expiration.mdx
+  s_09253df7164ff9::t_a628fe7eecff1d 5-6,11,38,40
+src/content/changelog/basin-catalog/2026-04-22-snapshot-expiration-cleans-data-files.mdx
+  s_09253df7164ff9::t_a4dc7052ca8834 5-6,11,24
+src/content/changelog/basin-catalog/2026-05-11-r2-data-catalog-pricing-announced.mdx
+  s_09253df7164ff9::t_e8d9f05ad1187f 5-6,11,22
+src/content/changelog/basin-catalog/2026-05-12-r2-data-catalog-graphql-analytics.mdx
+  s_09253df7164ff9::t_40b8da5d4aedd9 5-6,11,20
+src/content/changelog/basin-catalog/2026-05-28-r2-data-catalog-dashboard.mdx
+  s_09253df7164ff9::t_6972bec4a83d17 5-6,11,19,22
+src/content/changelog/basin-catalog/2026-07-06-r2-data-catalog-delete-warnings.mdx
+  s_09253df7164ff9::t_01b0cb90acc633 5-6,11,30
+src/content/changelog/basin-catalog/2026-07-09-r2-data-catalog-read-only-tokens.mdx
+  s_09253df7164ff9::t_bc776652f44c5f 5-6,11,18,22
+src/content/changelog/basin-catalog/2026-07-13-r2-data-catalog-manifest-optimization.mdx
+  s_09253df7164ff9::t_5644aa7276bee9 5-6,10,18
+src/content/changelog/basin-catalog/2026-08-03-r2-data-catalog-billing-enabled.mdx
+  s_09253df7164ff9::t_1e8a73c9ad3d37 5-6,11,16,31
+src/content/changelog/basin-catalog/2026-09-16-table-maintenance-dashboard.mdx
+  s_09253df7164ff9::t_71e7e598b2c2b6 5-6,13,34
+src/content/changelog/basin-pipelines/2025-04-10-launching-pipelines.mdx
+  s_09253df7164ff9::t_6b96dab8e439c2 5-6,12,60
+src/content/changelog/basin-pipelines/2025-09-25-pipelines-sql.mdx
+  s_09253df7164ff9::t_57a8c2c1164b37 6-7,13,15,17,40
+src/content/changelog/basin-pipelines/2026-02-24-typed-bindings-setup-improvements-error-metrics.mdx
+  s_09253df7164ff9::t_60de9265340758 5-6,11,15,50,56,72,78,80
+src/content/changelog/basin-pipelines/2026-04-27-terraform-support.mdx
+  s_09253df7164ff9::t_8a7b7e551da088 5-6,10,62
+src/content/changelog/basin-pipelines/2026-05-11-pipelines-pricing-announced.mdx
+  s_09253df7164ff9::t_cb41fcf0fe04ef 5-6,10,22
+src/content/changelog/basin-pipelines/2026-05-27-pipeline-binding-stream-field.mdx
+  s_09253df7164ff9::t_d80f067348801f 5-6,43
+src/content/changelog/basin-pipelines/2026-08-03-pipelines-billing-enabled.mdx
+  s_09253df7164ff9::t_df9be47838e39b 5-6,10,17,28
+src/content/changelog/basin-pipelines/2026-10-01-stream-ingest-limit-increase.mdx
+  s_09253df7164ff9::t_9ba03ffa0a2600 1-14
+src/content/changelog/basin-sql/2025-09-25-announcing-r2-sql-open-beta.mdx
+  s_09253df7164ff9::t_06cb1188ef10e9 6-7,13,15,32
+src/content/changelog/basin-sql/2025-12-12-aggregation-support-and-more.mdx
+  s_09253df7164ff9::t_486e774a35983c 6-7,15,87
+src/content/changelog/basin-sql/2026-02-09-approximate-aggregation-functions.mdx
+  s_09253df7164ff9::t_e400174d16589d 59
+src/content/changelog/basin-sql/2026-03-23-expanded-sql-functions-expressions-complex-types.mdx
+  s_09253df7164ff9::t_8c9f66fa3d0911 5-6,10,78
+src/content/changelog/basin-sql/2026-04-20-r2-sql-json-functions-explain-format.mdx
+  s_09253df7164ff9::t_5057f416f0363f 5-6,10,12,24,70,74
+src/content/changelog/basin-sql/2026-05-11-r2-sql-pricing-announced.mdx
+  s_09253df7164ff9::t_1387da4c161d00 5-6,10,16,18
+src/content/changelog/basin-sql/2026-05-14-joins-subqueries-multi-table-queries.mdx
+  s_09253df7164ff9::t_deda7399795eb2 5-6,10,72
+src/content/changelog/basin-sql/2026-06-05-union-intersect-except-select-distinct.mdx
+  s_09253df7164ff9::t_49e8876c39e5c6 5-6,10,58
+src/content/changelog/basin-sql/2026-06-21-window-functions-distinct-set-operations.mdx
+  s_09253df7164ff9::t_075c483634775b 5-6,12,49
+src/content/changelog/basin-sql/2026-07-08-query-r2-sql-from-dashboard.mdx
+  s_09253df7164ff9::t_0e01c863761041 5-6,12
+src/content/changelog/basin-sql/2026-08-03-r2-sql-billing-enabled.mdx
+  s_09253df7164ff9::t_031bb7813334e7 5-6,10,16,26
+src/content/changelog/basin/2026-10-01-basin-ga.mdx
+  s_09253df7164ff9::t_24fe05df267089 2-3,5-9,14,16,18,20-22,24,26,28-30,32,34,36-38,40,42-50
+src/content/changelog/bots/2026-09-16-jsd-api-results.mdx
+  s_09253df7164ff9::t_53984b47c01829 1-19
+src/content/changelog/browser-isolation/2026-09-30-browser-isolation-rbac.mdx
+  s_09253df7164ff9::t_ebcef20d82d735 1-17
+src/content/changelog/browser-run/2026-09-25-crawl-event-subscriptions.mdx
+  s_09253df7164ff9::t_2c0ce15df06cb3 1-22
+src/content/changelog/browser-run/2026-09-28-webmcp-api.mdx
+  s_09253df7164ff9::t_b97c513cbc9ecc 1-15
+src/content/changelog/browser-run/2026-09-29-concurrent-session-connections.mdx
+  s_09253df7164ff9::t_3f9402d8a7229a 2-3,5-6,11,13,17-27,31,33,35,37
+src/content/changelog/cache/2026-09-28-cache-invalidation.mdx
+  s_09253df7164ff9::t_42b03d3a6c9362 1-31
+src/content/changelog/cache/2026-09-28-cache-reserve-purge-behavior.mdx
+  s_09253df7164ff9::t_f1a0cd9818548e 1-37
+src/content/changelog/cloudflare-wan/2026-09-25-unified-routing-managed-rulesets.mdx
+  s_09253df7164ff9::t_0cf731f86971a0 1-12
+src/content/changelog/containers/2026-03-26-outbound-workers.mdx
+  s_09253df7164ff9::t_77f2c8683f0ac4 81
+src/content/changelog/containers/2026-04-13-sandbox-outbound-workers-tls-auth.mdx
+  s_09253df7164ff9::t_c92a75762eacc9 112
+src/content/changelog/containers/2026-09-29-remove-disk-to-memory-ratio.mdx
+  s_09253df7164ff9::t_2eef5101a3365b 1-36
+src/content/changelog/containers/2026-09-30-durable-object-scheduling-policy.mdx
+  s_09253df7164ff9::t_d1d2033c9dba52 1-54
+src/content/changelog/containers/2026-09-30-snapshots.mdx
+  s_09253df7164ff9::t_4eaec25032ad43 1-47
+src/content/changelog/durable-objects/2026-09-24-durable-object-name-search-limit.mdx
+  s_09253df7164ff9::t_e6213b0e1058bc 1-13
+src/content/changelog/durable-objects/2026-10-01-pending-io-keep-alive.mdx
+  s_09253df7164ff9::t_3fdb596d7532ea 1-29
+src/content/changelog/email-service/2026-09-04-email-routing-rules-wrangler.mdx
+  s_09253df7164ff9::t_26d2fe34cd8e8c 1-31
+src/content/changelog/email-service/2026-09-25-sending-domain-suppressions.mdx
+  s_09253df7164ff9::t_33c29d7939cda7 1-32
+src/content/changelog/gateway/2026-06-30-gateway-granular-permissions.mdx
+  s_09253df7164ff9::t_1aef881b18adea 43
+src/content/changelog/gateway/2026-09-23-traffic-destination-selector.mdx
+  s_09253df7164ff9::t_b80c3bf264cf55 1-28
+src/content/changelog/images/2026-09-23-transformation-analytics.mdx
+  s_09253df7164ff9::t_37bf410d9acfb0 1-17
+src/content/changelog/logs/2026-04-20-pipelines-logpush-destination.mdx
+  s_09253df7164ff9::t_ddf7c811c222b0 6,12,30,34
+src/content/changelog/logs/2026-09-30-logpush-usage-based-pricing.mdx
+  s_09253df7164ff9::t_cd91029072213c 1-22
+src/content/changelog/logs/2026-09-30-transformers-ga.mdx
+  s_09253df7164ff9::t_bb29ba9875d6c2 1-14
+src/content/changelog/mesh/2026-09-29-mesh-workers-vpc-network-logs.mdx
+  s_09253df7164ff9::t_5638375ac574bb 1-48
+src/content/changelog/monetization-gateway/2026-09-30-closed-beta.mdx
+  s_09253df7164ff9::t_c6ccf9d2f2fcfc 1-11
+src/content/changelog/r2/2026-09-24-r2-bandwidth-metrics.mdx
+  s_09253df7164ff9::t_029567bea914c8 1-20
+src/content/changelog/rules/2026-10-01-coalesce-function.mdx
+  s_09253df7164ff9::t_e006c8c5e9b44d 1-13
+src/content/changelog/rules/2026-10-01-dynamic-comparison-values.mdx
+  s_09253df7164ff9::t_d36732906707dd 1-15
+src/content/changelog/sandbox/2026-07-21-devin-outposts.mdx
+  s_09253df7164ff9::t_f383a1d0e4477c 15
+src/content/changelog/sandbox/2026-09-02-cursor-cloud-agents.mdx
+  s_09253df7164ff9::t_b6fb6b3ce603b2 15
+src/content/changelog/sandbox/2026-09-30-sandbox-sdk-1-0.mdx
+  s_09253df7164ff9::t_849c9c43c833dd 1-75
+src/content/changelog/tunnel/2026-03-19-wrangler-tunnel-commands.mdx
+  s_09253df7164ff9::t_fede16ba86b2b9 21
+src/content/changelog/tunnel/2026-10-02-protected-quick-tunnels.mdx
+  s_09253df7164ff9::t_5b9794b0b4bc55 1-27
+src/content/changelog/waf/2026-09-25-emergency-waf-release.mdx
+  s_09253df7164ff9::t_d031a65c2ba6d6 1-81
+src/content/changelog/waf/2026-09-30-waf-release.mdx
+  s_09253df7164ff9::t_c4196fe44ed2b3 1-84
+src/content/changelog/waf/2026-10-01-emergency-waf-release.mdx
+  s_09253df7164ff9::t_8d5f12b496e74d 1-46
+src/content/changelog/waf/scheduled-waf-release.mdx
+  s_09253df7164ff9::t_7492e551bf6c8d 2-4,25,33,37-38,42,44,48
+src/content/changelog/workers-ai/2026-10-01-clef-workers-ai.mdx
+  s_09253df7164ff9::t_aeaf77a32f7e46 2-3,5-6,11,13,15,17,19,21,23-26,28,30,32,34-39,41,43,45-48,50,52-54,56,58-81,83,85,87-91,93,95,97
+src/content/changelog/workers/2026-02-13-pywrangler-windows-support.mdx
+  s_09253df7164ff9::t_0394dcd1699035 30
+src/content/changelog/workers/2026-05-18-local-dev-tunnels.mdx
+  s_09253df7164ff9::t_5a9fed90f94130 16
+src/content/changelog/workers/2026-09-25-custom-span-apis.mdx
+  s_09253df7164ff9::t_7148a63648464f 2-3,5-6,9,11,13-16,18,21,25,27-30,32-41,48
+src/content/changelog/workers/2026-09-25-release-flows-workers-metrics.mdx
+  s_09253df7164ff9::t_00c917a407ce6a 1-25
+src/content/changelog/workers/2026-09-28-cloudflare-cli-beta.mdx
+  s_09253df7164ff9::t_3cb050914ff296 1-31
+src/content/changelog/workers/2026-09-28-webcrypto-modern-algorithms.mdx
+  s_09253df7164ff9::t_291116fde11078 1-55
+src/content/changelog/workflows/2026-09-24-workflow-exports.mdx
+  s_09253df7164ff9::t_dc5edb657d6e69 1-43
+src/content/changelog/workflows/2026-09-27-workflow-ctx-exports.mdx
+  s_09253df7164ff9::t_288db6bddfe17f 1-37
+src/content/compatibility-flags/durable-object-io-tasks-prevent-eviction.md
+  s_09253df7164ff9::t_80a9b5d171af49 1-14
+src/content/compatibility-flags/webcrypto-modern-algorithms.md
+  s_09253df7164ff9::t_035d1e792cf7ff 1-19
+src/content/dash-routes/core-manually-defined.json
+  s_09253df7164ff9::t_ca6f6ade35e862 19,66-75
+src/content/directory/basin-catalog.yaml
+  s_09253df7164ff9::t_1ea96bacfde400 2,5-6,12
+src/content/directory/basin-pipelines.yaml
+  s_09253df7164ff9::t_2010df5218f2e4 2,5-6,10
+src/content/directory/basin-sql.yaml
+  s_09253df7164ff9::t_771f2be9716400 3,6-7,11-12
+src/content/directory/basin.yaml
+  s_09253df7164ff9::t_bd212b33966916 1-14
+src/content/directory/cf.yaml
+  s_09253df7164ff9::t_d7cd0fdbd07d47 1-12
+src/content/directory/k2.yaml
+  s_09253df7164ff9::t_c63b4b24ec624e 1-13
+src/content/directory/monetization-gateway.yaml
+  s_09253df7164ff9::t_113935e464c1b2 1-14
+src/content/directory/sandbox.yaml
+  s_09253df7164ff9::t_b694cb5863504b 2,5,12-13
+src/content/directory/workers-builds.yaml
+  s_09253df7164ff9::t_a78c60e1dcd9f1 11
+src/content/docs/agent-lee/index.mdx
+  s_09253df7164ff9::t_9a25362cf640cc 25-27,34,36-39,43-44,53-54,59-60,67-70,81-82,88-117,140-142,154-155,174,181-182
+src/content/docs/agent-lee/manage-access.mdx
+  s_09253df7164ff9::t_a35837ed53fea7 1-127
+src/content/docs/agent-lee/take-home-code.mdx
+  s_09253df7164ff9::t_d5fe43e53695f3 1-85
+src/content/docs/agent-setup/bionic.mdx
+  s_09253df7164ff9::t_aa8ae382be4207 34,74,78-86,95
+src/content/docs/agent-setup/claude-code.mdx
+  s_09253df7164ff9::t_8c4610eed16d09 39,76,91,97-105,113
+src/content/docs/agent-setup/codex.mdx
+  s_09253df7164ff9::t_21d75e3f294c47 40,103,109-117
+src/content/docs/agent-setup/cursor.mdx
+  s_09253df7164ff9::t_cd3400071e2e7e 60,74,79-87,96-98,119
+src/content/docs/agent-setup/devin.mdx
+  s_09253df7164ff9::t_a84de00e294a53 2-3,23,28,30,74,82-83,85-86,89,93-101,104-107,115,133
+src/content/docs/agent-setup/github-copilot.mdx
+  s_09253df7164ff9::t_26a6d6ea3ba51a 94,99-107,116
+src/content/docs/agent-setup/opencode.mdx
+  s_09253df7164ff9::t_6c1dd5c7063e92 60,94,100-108
+src/content/docs/agent-setup/vibe.mdx
+  s_09253df7164ff9::t_0ffeac217d7d89 1-205
+src/content/docs/agents/examples/slack-agent.mdx
+  s_09253df7164ff9::t_fe578c116fedb8 278
+src/content/docs/agents/tools/sandbox.mdx
+  s_09253df7164ff9::t_0f0c3a2663c4ca 6-8,13,15,17-20,22-24,26-30,34,39-59,61-74,76-87,89-93,95-102,104-114,117-119,123-131,136-147,150,156-159,162-163,169-170,177,185-192,195,197-207,212,214-220,224-226,230-232
+src/content/docs/ai-gateway/features/auto-router.mdx
+  s_09253df7164ff9::t_9702ba4a1fbb9c 1-221
+src/content/docs/ai-gateway/features/caching.mdx
+  s_09253df7164ff9::t_e4683711b72be4 5
+src/content/docs/ai-gateway/features/dlp/index.mdx
+  s_09253df7164ff9::t_bfe1a9d7e671b8 6
+src/content/docs/ai-gateway/features/dlp/set-up-dlp.mdx
+  s_09253df7164ff9::t_f2f71b0b48a673 11,55-103
+src/content/docs/ai-gateway/features/dynamic-routing/index.mdx
+  s_09253df7164ff9::t_6a33b8d85fd27a 7
+src/content/docs/ai-gateway/features/guardrails/index.mdx
+  s_09253df7164ff9::t_8dd031314852c3 9
+src/content/docs/ai-gateway/features/guardrails/set-up-guardrail.mdx
+  s_09253df7164ff9::t_5add553e6723d9 11-12,26-70
+src/content/docs/ai-gateway/features/index.mdx
+  s_09253df7164ff9::t_1eb3c4cd63cf23 59-71,203-209
+src/content/docs/ai-gateway/features/machine-payments.mdx
+  s_09253df7164ff9::t_f018ea57fca7e4 1-83
+src/content/docs/ai-gateway/features/rate-limiting.mdx
+  s_09253df7164ff9::t_57b4f98d3118b3 6
+src/content/docs/ai-gateway/features/spend-limits.mdx
+  s_09253df7164ff9::t_b5938c501b6923 6
+src/content/docs/ai-gateway/features/unified-billing.mdx
+  s_09253df7164ff9::t_6f4564edd8e528 145-152,172,176
+src/content/docs/ai-gateway/observability/analytics.mdx
+  s_09253df7164ff9::t_7185c0afdab66b 5-6
+src/content/docs/ai-gateway/observability/costs.mdx
+  s_09253df7164ff9::t_afd71684f1a6fd 6
+src/content/docs/ai-gateway/observability/custom-metadata.mdx
+  s_09253df7164ff9::t_450f61f92c8a11 6
+src/content/docs/ai-gateway/observability/log-classification.mdx
+  s_09253df7164ff9::t_fe515324e53dc5 6
+src/content/docs/ai-gateway/observability/logging/index.mdx
+  s_09253df7164ff9::t_8e283fc0595c15 5-6,13,15,17,19-25,29-31
+src/content/docs/ai-gateway/observability/logging/legacy-logs.mdx
+  s_09253df7164ff9::t_a8553c6243b245 1-61
+src/content/docs/ai-gateway/observability/logging/logpush.mdx
+  s_09253df7164ff9::t_2eb2c2975f0c4f 14-15,18-20
+src/content/docs/ai-gateway/observability/otel-integration.mdx
+  s_09253df7164ff9::t_3b45bb6b0d9a4d 6
+src/content/docs/ai-gateway/observability/user-insights.mdx
+  s_09253df7164ff9::t_7b7c786a7ef649 6
+src/content/docs/ai-gateway/reference/limits.mdx
+  s_09253df7164ff9::t_f4c8cc176256cf 15-59
+src/content/docs/ai-gateway/reference/pricing.mdx
+  s_09253df7164ff9::t_8fa3b8384e0bc4 4,19,21,23-29,36,54
+src/content/docs/ai-search/agent-sdks/agents-sdk.mdx
+  s_09253df7164ff9::t_518375d9315246 95,117-118,138
+src/content/docs/ai-search/agent-sdks/ai-sdk.mdx
+  s_09253df7164ff9::t_b4c6b1bbe693ad 81,83,104,106
+src/content/docs/ai-search/agent-sdks/langchain.mdx
+  s_09253df7164ff9::t_15f9a81caeb831 15,54,56,89
+src/content/docs/ai-search/api/instances/workers-binding.mdx
+  s_09253df7164ff9::t_8d24e1e84c8e2f 65-77,93,177,185,207-236,264-326
+src/content/docs/ai-search/api/items/workers-binding.mdx
+  s_09253df7164ff9::t_e95b5440516b79 44,46-47,58,69-73,104-107,140-141,146,148,243-265
+src/content/docs/ai-search/api/search/public-endpoint.mdx
+  s_09253df7164ff9::t_cfe886002e2490 103-122
+src/content/docs/ai-search/api/search/rest-api.mdx
+  s_09253df7164ff9::t_58e78828cdb5d7 72-92
+src/content/docs/ai-search/api/search/workers-binding.mdx
+  s_09253df7164ff9::t_1c045eac32458e 39-40
+src/content/docs/ai-search/concepts/how-ai-search-works.mdx
+  s_09253df7164ff9::t_cbf55f06fc4253 30,32,48,56-57
+src/content/docs/ai-search/concepts/search-modes.mdx
+  s_09253df7164ff9::t_e829d104636473 11-13
+src/content/docs/ai-search/configuration/data-source/built-in-storage.mdx
+  s_09253df7164ff9::t_8abee16a49529b 34
+src/content/docs/ai-search/configuration/data-source/index.mdx
+  s_09253df7164ff9::t_044f7ac643f386 29,31,39,44,56,67,69-84
+src/content/docs/ai-search/configuration/index.mdx
+  s_09253df7164ff9::t_3307cb40922cc9 53-59
+src/content/docs/ai-search/configuration/indexing/chunking.mdx
+  s_09253df7164ff9::t_e025314484c543 41
+src/content/docs/ai-search/configuration/indexing/hybrid-search.mdx
+  s_09253df7164ff9::t_1e76fff90cbd24 13-14,30
+src/content/docs/ai-search/configuration/indexing/keyword-search.mdx
+  s_09253df7164ff9::t_423085084009c6 20,24-25
+src/content/docs/ai-search/configuration/indexing/syncing.mdx
+  s_09253df7164ff9::t_f78dbfda511410 23
+src/content/docs/ai-search/configuration/indexing/vector-search.mdx
+  s_09253df7164ff9::t_a22d81de27d9f0 23
+src/content/docs/ai-search/configuration/models/ai-gateway.mdx
+  s_09253df7164ff9::t_4cdffcc51d43b0 11-13,19,41
+src/content/docs/ai-search/configuration/models/index.mdx
+  s_09253df7164ff9::t_67a16284bed04a 17,40
+src/content/docs/ai-search/configuration/models/supported-models.mdx
+  s_09253df7164ff9::t_90c168764d3d6b 23-42,46-56,60-62
+src/content/docs/ai-search/configuration/retrieval/public-endpoint/cloudflare-access.mdx
+  s_09253df7164ff9::t_f41cdae657ffef 87
+src/content/docs/ai-search/configuration/retrieval/reranking.mdx
+  s_09253df7164ff9::t_acc877904e42a5 25-26
+src/content/docs/ai-search/how-to/human-in-the-loop-knowledge-base.mdx
+  s_09253df7164ff9::t_50736db93a236d 199,230,242-243
+src/content/docs/ai-search/index.mdx
+  s_09253df7164ff9::t_92f50fde9c0a6f 74-86
+src/content/docs/ai-search/platform/limits-pricing.mdx
+  s_09253df7164ff9::t_25d11d7f1a2162 4,15-30,42,44,46-63,65,67-75,77
+src/content/docs/ai-search/troubleshooting/api-error-codes.mdx
+  s_09253df7164ff9::t_48af7f0233b084 49,53-54,81-85,129-146,178,208-222,248
+src/content/docs/ai-search/troubleshooting/indexing-error-codes.mdx
+  s_09253df7164ff9::t_20e70c243332ef 46,48
+src/content/docs/ai/index.mdx
+  s_09253df7164ff9::t_99dfb69a373262 78-80,94-95
+src/content/docs/ai/related-products/agent-lee.mdx
+  s_09253df7164ff9::t_3153149ce1c7d2 2-3,6
+src/content/docs/ai/related-products/index.mdx
+  s_09253df7164ff9::t_c253abd3dda824 55-57,71-72
+src/content/docs/ai/related-products/sandbox-sdk.mdx
+  s_09253df7164ff9::t_c43022c5bf5f14 2-3
+src/content/docs/api-shield/get-started.mdx
+  s_09253df7164ff9::t_d508b9884f3b5e 58,64,68
+src/content/docs/api-shield/management-and-monitoring/api-routing.mdx
+  s_09253df7164ff9::t_a9c4a011f4476c 22,30,44,57
+src/content/docs/api-shield/management-and-monitoring/developer-portal.mdx
+  s_09253df7164ff9::t_083da84f915532 30-31
+src/content/docs/api-shield/management-and-monitoring/endpoint-labels.mdx
+  s_09253df7164ff9::t_5b14d6a623e137 16,18,20,28-30,70,72,74,78,84,86,91,103,107,198,233
+src/content/docs/api-shield/management-and-monitoring/endpoint-management/index.mdx
+  s_09253df7164ff9::t_b5b06d037604be 15,159,169
+src/content/docs/api-shield/management-and-monitoring/endpoint-management/schema-learning.mdx
+  s_09253df7164ff9::t_f84e12b37600b4 49,56
+src/content/docs/api-shield/plans.mdx
+  s_09253df7164ff9::t_ac434b1e583a75 17-25
+src/content/docs/api-shield/security/api-discovery.mdx
+  s_09253df7164ff9::t_e73f3fc3729f3b 3,6,13,17,24,26,28-29,31,36,45,51-53,55,57,68,70,72,74,80-81,84,88-90,92,102
+src/content/docs/api-shield/security/authentication-posture.mdx
+  s_09253df7164ff9::t_e3d491a87fc2bb 15,17,19,23,33,47-48
+src/content/docs/api-shield/security/bola-vulnerability-detection.mdx
+  s_09253df7164ff9::t_b9c9dc2bc43e73 26,31,40,45,53,60-61,92-96,98,122
+src/content/docs/api-shield/security/graphql-protection/api.mdx
+  s_09253df7164ff9::t_5ca5ead7cd2ae9 8-9,161
+src/content/docs/api-shield/security/graphql-protection/index.mdx
+  s_09253df7164ff9::t_6d7dd6cddb674f 13,23,26
+src/content/docs/api-shield/security/jwt-validation/api.mdx
+  s_09253df7164ff9::t_9c1eca21fd0090 27,32-38,46-48,58-59,62,64,70-72,270,306,335-336,345-347,350-351,365-366,373,446,456-457,462,467,473,601
+src/content/docs/api-shield/security/jwt-validation/index.mdx
+  s_09253df7164ff9::t_feb757408662a8 42
+src/content/docs/api-shield/security/jwt-validation/transform-rules.mdx
+  s_09253df7164ff9::t_788959517be36f 2,4,11,16,18,20,30,32,47
+src/content/docs/api-shield/security/mtls/configure.mdx
+  s_09253df7164ff9::t_bfddd3e09a2df6 18,50
+src/content/docs/api-shield/security/schema-validation/api.mdx
+  s_09253df7164ff9::t_8fdfaadd1317c0 27-29,39,44,46,55,62-63,65-67,79,82-83,100,107-109,114-123,143,145,147,149-173,177,179,185-203
+src/content/docs/api-shield/security/schema-validation/index.mdx
+  s_09253df7164ff9::t_256a0589bd4864 34,82,104,112,114,126,132-135,149,154,186,193,225-226,234,236,238-241,243,245,247,249,251
+src/content/docs/api-shield/security/sequence-analytics.mdx
+  s_09253df7164ff9::t_b0bc9cc25a5cdc 11,50
+src/content/docs/api-shield/security/sequence-mitigation/api.mdx
+  s_09253df7164ff9::t_7de83f347f3f29 15,17,19-29,39-48,50,64,79-81,91-92,107
+src/content/docs/api-shield/security/sequence-mitigation/custom-rules.mdx
+  s_09253df7164ff9::t_530d61219695af 12,17,20,28,45,52-53,57-59,62,69-71,73
+src/content/docs/api-shield/security/sequence-mitigation/index.mdx
+  s_09253df7164ff9::t_efa78d319b8d62 13,34,47,62,70,90
+src/content/docs/api-shield/security/sequence-mitigation/manage-sequence-rules.mdx
+  s_09253df7164ff9::t_fb0253e84fac79 27-28,40
+src/content/docs/api-shield/security/volumetric-abuse-detection.mdx
+  s_09253df7164ff9::t_19a4b18ea72f56 13,27,29,35,37,39,43,47,50,54,77
+src/content/docs/api-shield/security/vulnerability-scanner.mdx
+  s_09253df7164ff9::t_f26f35de1ab52d 207-234,237,248-258,265-275,282-292,326
+src/content/docs/argo-smart-routing/argo-for-packets.mdx
+  s_09253df7164ff9::t_1720e05f275af6 4,11,13
+src/content/docs/artifacts/api/workers-binding.mdx
+  s_09253df7164ff9::t_5ad0940eaab297 22,51,53-60,103-109,115,202,204-222,234-235,251,271-272,292,307-312,318,329-331,337-338,347-349,355-374,380-416,441,446-463,465
+src/content/docs/artifacts/examples/sandbox-sdk-artifacts.mdx
+  s_09253df7164ff9::t_cb1802c85c45f3 15,27
+src/content/docs/artifacts/get-started/workers.mdx
+  s_09253df7164ff9::t_a1932239e1b9a8 31-36
+src/content/docs/artifacts/guides/build-and-deploy-on-push.mdx
+  s_09253df7164ff9::t_2325893ce34387 25-29
+src/content/docs/artifacts/index.mdx
+  s_09253df7164ff9::t_e884682a11d8ac 14,22,24,26-30,32,34,36,38,40
+src/content/docs/artifacts/platform/limits.mdx
+  s_09253df7164ff9::t_27612dce483297 15-25
+src/content/docs/artifacts/platform/pricing.mdx
+  s_09253df7164ff9::t_bd1c4119ff5a81 11-18,26-29
+src/content/docs/basin-catalog/config-examples/duckdb.mdx
+  s_09253df7164ff9::t_ece4d02a858bdf 3,7,10,15,26,34,40
+src/content/docs/basin-catalog/config-examples/index.mdx
+  s_09253df7164ff9::t_e1fc6f4469619d 11,16
+src/content/docs/basin-catalog/config-examples/pyiceberg.mdx
+  s_09253df7164ff9::t_635b778391e3e9 3,7,10,15,31
+src/content/docs/basin-catalog/config-examples/snowflake.mdx
+  s_09253df7164ff9::t_f4af7fd4d117c8 3,7,10,15,24,43
+src/content/docs/basin-catalog/config-examples/spark-python.mdx
+  s_09253df7164ff9::t_8058dacc54225c 3,7,10,15
+src/content/docs/basin-catalog/config-examples/spark-scala.mdx
+  s_09253df7164ff9::t_9bad38ad9f7c8b 3,7,12,17,42
+src/content/docs/basin-catalog/config-examples/starrocks.mdx
+  s_09253df7164ff9::t_15735963ad51f0 3,7,10,15
+src/content/docs/basin-catalog/config-examples/trino.mdx
+  s_09253df7164ff9::t_2de304e4879fa6 3,7,12,17,29,43,45-46,71
+src/content/docs/basin-catalog/deleting-data.mdx
+  s_09253df7164ff9::t_a127670208c3c1 4,6,11-16,18,22,29,31,33,35-49,51,59,61,195,219,224-226
+src/content/docs/basin-catalog/get-started.mdx
+  s_09253df7164ff9::t_5ff93dc1a3e096 7,9,27,44,48,52,62,87,164,271-272,277
+src/content/docs/basin-catalog/index.mdx
+  s_09253df7164ff9::t_07531187f97264 3,9,12,14-17,19-20,22,24,48-49,54-55,60
+src/content/docs/basin-catalog/manage-catalogs.mdx
+  s_09253df7164ff9::t_6039ef45a46112 6,26-27,30-32,40,45,52,54,61-63,70,80,82,89,91,100,117,119,121-133,155,168,170,172-184,200,218,220,222-234,247,260,262-274,281,283,285-286,288,292,300-301,307,363,367,371-375,379,385-386,391
+src/content/docs/basin-catalog/observability/index.mdx
+  s_09253df7164ff9::t_dfc2310aa05b20 9
+src/content/docs/basin-catalog/observability/metrics.mdx
+  s_09253df7164ff9::t_494872d92e1429 4,8,11-15,37,47,61,74,88,90
+src/content/docs/basin-catalog/platform/index.mdx
+  s_09253df7164ff9::t_d89eab28554b27 3,10
+src/content/docs/basin-catalog/platform/pricing.mdx
+  s_09253df7164ff9::t_46dfcea5923429 4,8,11-15,18,22-24,44,57,76
+src/content/docs/basin-catalog/table-maintenance.mdx
+  s_09253df7164ff9::t_eeffd7b1a46d92 4,6,11,15,26,33,41,67,69-71,77-87,89-93,95,97-101,103-111,133-135,148-174
+src/content/docs/basin-pipelines/examples/bluesky-firehose-fanout.mdx
+  s_09253df7164ff9::t_fb597a66d2178a 4-5,7-9,24,26,44,98,100-102,112,117,120,129,134,136-164,197,200,277-278,375,417-419,423,426-427,429,431-445,451,455
+src/content/docs/basin-pipelines/examples/index.mdx
+  s_09253df7164ff9::t_1e23bbca683520 8,10,15,19
+src/content/docs/basin-pipelines/getting-started.mdx
+  s_09253df7164ff9::t_b6e62bbf8d2e49 7,9,13,26,28,36,57,96,98,101,146,159,163,208,276,278-280,283,289,296-300,302,304,310,316,322,328-329
+src/content/docs/basin-pipelines/index.mdx
+  s_09253df7164ff9::t_339542d487e492 2,7,9,13,28-34,36,38,40,42,48,54,60,66,68,72,102
+src/content/docs/basin-pipelines/observability/index.mdx
+  s_09253df7164ff9::t_ebd5c08beba8b7 3,10
+src/content/docs/basin-pipelines/observability/metrics.mdx
+  s_09253df7164ff9::t_5dc97ec970b18e 4,8,11,19,39,59,85,93,103
+src/content/docs/basin-pipelines/pipelines/index.mdx
+  s_09253df7164ff9::t_983e4da4bcf587 8,13,21
+src/content/docs/basin-pipelines/pipelines/manage-pipelines.mdx
+  s_09253df7164ff9::t_d3e55f16aacfec 6,11,26,35,37,41,43,45,49,99,111,118,127,129,131,133,142,150,152
+src/content/docs/basin-pipelines/platform/index.mdx
+  s_09253df7164ff9::t_8fe533f6bba23e 4,10
+src/content/docs/basin-pipelines/platform/limits.mdx
+  s_09253df7164ff9::t_80ff3571afcac8 4,8,13,19
+src/content/docs/basin-pipelines/platform/pricing.mdx
+  s_09253df7164ff9::t_dcb04bbfcbae61 4,9,11,14,19,23-25,60
+src/content/docs/basin-pipelines/reference/index.mdx
+  s_09253df7164ff9::t_3838a1692a73ef 9,11,16
+src/content/docs/basin-pipelines/reference/legacy-pipelines.mdx
+  s_09253df7164ff9::t_8dc57a5330bec3 3,8,11-12,15,29,33,41
+src/content/docs/basin-pipelines/reference/rest-api.mdx
+  s_09253df7164ff9::t_9560397367775c 8
+src/content/docs/basin-pipelines/reference/terraform.mdx
+  s_09253df7164ff9::t_fffbe5b2914c3e 4,6,15-19,26,28,30,42,44,150,179
+src/content/docs/basin-pipelines/reference/wrangler-commands.mdx
+  s_09253df7164ff9::t_6eb1454a3dc269 4,8,11,13-21
+src/content/docs/basin-pipelines/sinks/available-sinks/index.mdx
+  s_09253df7164ff9::t_18740786032c7b 11,16
+src/content/docs/basin-pipelines/sinks/available-sinks/r2-data-catalog.mdx
+  s_09253df7164ff9::t_651aab4bd3c8ce 3-4,6,11,13,15-19,25,66,78
+src/content/docs/basin-pipelines/sinks/available-sinks/r2.mdx
+  s_09253df7164ff9::t_d1ac3d3a544014 6,11-12,15,17,107
+src/content/docs/basin-pipelines/sinks/index.mdx
+  s_09253df7164ff9::t_b4b7c71c9f2dfb 3,8,14,22,28
+src/content/docs/basin-pipelines/sinks/manage-sinks.mdx
+  s_09253df7164ff9::t_da773e028f9a2d 6,11,21,26,35,37,39,41,43,50,58,60,62,64,71,75,81,83,92
+src/content/docs/basin-pipelines/sql-reference/index.mdx
+  s_09253df7164ff9::t_f1873b7fa0dcb9 9,11,16
+src/content/docs/basin-pipelines/sql-reference/scalar-functions/array.mdx
+  s_09253df7164ff9::t_8d7682f58918ab 5,10
+src/content/docs/basin-pipelines/sql-reference/scalar-functions/binary-string.mdx
+  s_09253df7164ff9::t_b359808b2e3e4c 5,10
+src/content/docs/basin-pipelines/sql-reference/scalar-functions/conditional.mdx
+  s_09253df7164ff9::t_fc6dc7790aa924 5,10
+src/content/docs/basin-pipelines/sql-reference/scalar-functions/hashing.mdx
+  s_09253df7164ff9::t_a105a162fd759e 5,10
+src/content/docs/basin-pipelines/sql-reference/scalar-functions/index.mdx
+  s_09253df7164ff9::t_7b84abe9c1a32d 9,11,16
+src/content/docs/basin-pipelines/sql-reference/scalar-functions/json.mdx
+  s_09253df7164ff9::t_10caf39b6b2d6a 5,10
+src/content/docs/basin-pipelines/sql-reference/scalar-functions/math.mdx
+  s_09253df7164ff9::t_fdca257dd371b6 5,10,338,347
+src/content/docs/basin-pipelines/sql-reference/scalar-functions/other.mdx
+  s_09253df7164ff9::t_33b5521efd3f74 5,10
+src/content/docs/basin-pipelines/sql-reference/scalar-functions/regex.mdx
+  s_09253df7164ff9::t_9f9b830cf5c7f6 5,10,14,122
+src/content/docs/basin-pipelines/sql-reference/scalar-functions/string.mdx
+  s_09253df7164ff9::t_4af902c620307c 5,10
+src/content/docs/basin-pipelines/sql-reference/scalar-functions/struct.mdx
+  s_09253df7164ff9::t_3c36f8c5b9cb87 5,10
+src/content/docs/basin-pipelines/sql-reference/scalar-functions/time-and-date.mdx
+  s_09253df7164ff9::t_455f405893c387 5,10
+src/content/docs/basin-pipelines/sql-reference/select-statements.mdx
+  s_09253df7164ff9::t_c4fe0b066ffc58 3,5,10-12,157,159
+src/content/docs/basin-pipelines/sql-reference/sql-data-types.mdx
+  s_09253df7164ff9::t_8a4e39b6532c3c 3,5,10,28,42
+src/content/docs/basin-pipelines/streams/index.mdx
+  s_09253df7164ff9::t_d67f2018f1b122 3,8,13,23,29,35-36
+src/content/docs/basin-pipelines/streams/logpush.mdx
+  s_09253df7164ff9::t_cb287fd87a33f8 4,6,13,17,28
+src/content/docs/basin-pipelines/streams/manage-streams.mdx
+  s_09253df7164ff9::t_a42f2c7c59f302 6,11,26,35,37,39,41,52,111,119,127,129,131,133,142,157,165,175,177
+src/content/docs/basin-pipelines/streams/writing-to-streams.mdx
+  s_09253df7164ff9::t_a16f3582540114 6,11,106,108,138,147
+src/content/docs/basin-sql/get-started.mdx
+  s_09253df7164ff9::t_e17e62fd9dd806 7,9,13,24,26,28,42,46,67-69,76,89,99,120,159,161,195,239,301,307-309,311,314,320,327-331,335,340-342,347,352-353
+src/content/docs/basin-sql/index.mdx
+  s_09253df7164ff9::t_f22eefc1574a43 2,9-10,12,16,27,31,33-34,36-37,39-45,47
+src/content/docs/basin-sql/platform/index.mdx
+  s_09253df7164ff9::t_57466678b17dec 3,10
+src/content/docs/basin-sql/platform/pricing.mdx
+  s_09253df7164ff9::t_72e479113772d7 4,9,11,14-18,22,26-28,41,47,52,62-64
+src/content/docs/basin-sql/query-data.mdx
+  s_09253df7164ff9::t_7c12b8439fa5a6 4,6,11,13,17,19,21,27,32,37-38,43,45,47,51,55-56,65,69,75,77,79,83,114,119-121,126
+src/content/docs/basin-sql/reference/index.mdx
+  s_09253df7164ff9::t_c94f883099140d 3,10
+src/content/docs/basin-sql/reference/limitations-best-practices.mdx
+  s_09253df7164ff9::t_e7c0659f6ba45a 3,10,45,71,79-80,84,105
+src/content/docs/basin-sql/reference/wrangler-commands.mdx
+  s_09253df7164ff9::t_5c0450baf544da 4,8,11,13,15
+src/content/docs/basin-sql/sql-reference/aggregate-functions.mdx
+  s_09253df7164ff9::t_a4278944e7cf72 4,6
+src/content/docs/basin-sql/sql-reference/complex-types.mdx
+  s_09253df7164ff9::t_624be14f680a49 4,6,13
+src/content/docs/basin-sql/sql-reference/index.mdx
+  s_09253df7164ff9::t_a7924425c243e5 4,6,15,202,208,295
+src/content/docs/basin-sql/sql-reference/scalar-functions.mdx
+  s_09253df7164ff9::t_d785e55930547c 4,6
+src/content/docs/basin-sql/troubleshooting.mdx
+  s_09253df7164ff9::t_ccd0afde03f8c4 3,10,13,23,153,217,227,273
+src/content/docs/basin-sql/tutorials/end-to-end-pipeline.mdx
+  s_09253df7164ff9::t_ea6d71c98d2c31 3,6,8,13,22,26-27,29,57-59,66,75,80,82-84,91,116,130,146,148-150,155,167,169,200,251,254,261,267,305,345,480,482-484,488-492,496,498,502,510-514,518-522,534-535,537
+src/content/docs/basin-sql/tutorials/index.mdx
+  s_09253df7164ff9::t_5098e2a9d7e4e9 3,10
+src/content/docs/basin/catalog.mdx
+  s_09253df7164ff9::t_de37d0b3ad0c84 1-10
+src/content/docs/basin/get-started/guide.mdx
+  s_09253df7164ff9::t_f4ed9eae43b957 1-124
+src/content/docs/basin/get-started/index.mdx
+  s_09253df7164ff9::t_3741b16f1f5b2d 1-17
+src/content/docs/basin/get-started/prompting.mdx
+  s_09253df7164ff9::t_55a8e31850ed78 2-3,6-7,9,12,14,16,18,20,22-23,26,28,30,32,34,36,38-42,44,46,48,50,52,54-55,58,60-62,64,66-67,70,72-74,76,78-80,82,84-85,88-121,123,125-130
+src/content/docs/basin/index.mdx
+  s_09253df7164ff9::t_97852481fd172c 1-12,14-15,17-59,61-105,107-118,120-124
+src/content/docs/basin/pipelines.mdx
+  s_09253df7164ff9::t_def4577eae8eb9 1-10
+src/content/docs/basin/platform/index.mdx
+  s_09253df7164ff9::t_5e2ab9eccd2092 1-21
+src/content/docs/basin/platform/pricing.mdx
+  s_09253df7164ff9::t_f8530bf1b81443 2-3,6,8,11,13,15,17,19-24,26-112
+src/content/docs/basin/sql.mdx
+  s_09253df7164ff9::t_38e9e5524cf0c9 1-10
+src/content/docs/basin/tutorials-and-examples.mdx
+  s_09253df7164ff9::t_aff449fb9e96cb 1-41
+src/content/docs/billing/manage/invoices.mdx
+  s_09253df7164ff9::t_28415250120b3e 36-37
+src/content/docs/billing/understand/how-billing-works.mdx
+  s_09253df7164ff9::t_3c717699443262 146,149
+src/content/docs/browser-run/cdp/index.mdx
+  s_09253df7164ff9::t_c10189eb5e704a 51-135
+src/content/docs/browser-run/cdp/mcp-clients.mdx
+  s_09253df7164ff9::t_4d2af03a9a7ed5 43,64,85
+src/content/docs/browser-run/cdp/playwright.mdx
+  s_09253df7164ff9::t_ea431d6368658e 41
+src/content/docs/browser-run/cdp/puppeteer.mdx
+  s_09253df7164ff9::t_ac04522a709b59 41
+src/content/docs/browser-run/cdp/session-management.mdx
+  s_09253df7164ff9::t_17140ed5be3823 26,39,50,77,120
+src/content/docs/browser-run/examples.mdx
+  s_09253df7164ff9::t_9edad9283716dc 6
+src/content/docs/browser-run/features/custom-fonts.mdx
+  s_09253df7164ff9::t_14bfeaf0f3be24 138,183,200
+src/content/docs/browser-run/features/guardrails.mdx
+  s_09253df7164ff9::t_3479e838ce721e 86
+src/content/docs/browser-run/features/index.mdx
+  s_09253df7164ff9::t_e6966f50e817d2 2-3,6
+src/content/docs/browser-run/features/live-view.mdx
+  s_09253df7164ff9::t_31a5a0fdce9078 67,92,107,117,170,186
+src/content/docs/browser-run/features/reuse-sessions.mdx
+  s_09253df7164ff9::t_fa273c916be416 24-25,54-57,83-85,87-89,94-100,112-116,118-128,130,135,140-154,156-160,163-171,173,175-180,182-186,193-195
+src/content/docs/browser-run/features/session-recording.mdx
+  s_09253df7164ff9::t_b346f093e77bf7 88,101
+src/content/docs/browser-run/features/webmcp.mdx
+  s_09253df7164ff9::t_e2d0d7221523b1 16-22,29,50,52,56,58-59,66-67,70,72-73,76-83,103-105,111,113,115,131,133,150-159,162-165
+src/content/docs/browser-run/how-to/extract-brand-kit.mdx
+  s_09253df7164ff9::t_17a26ac8558667 1-440
+src/content/docs/browser-run/how-to/og-images-astro.mdx
+  s_09253df7164ff9::t_2a1d0dda44d368 184
+src/content/docs/browser-run/kitesurf.mdx
+  s_09253df7164ff9::t_be102654aba5d0 6,40,94,116,123
+src/content/docs/browser-run/limits.mdx
+  s_09253df7164ff9::t_6559e3b7e2450b 109
+src/content/docs/browser-run/playwright/index.mdx
+  s_09253df7164ff9::t_3bd7f336460edf 28
+src/content/docs/browser-run/quick-actions/content-endpoint.mdx
+  s_09253df7164ff9::t_55bf35352b4997 20,44,96
+src/content/docs/browser-run/quick-actions/crawl-endpoint.mdx
+  s_09253df7164ff9::t_808d020975ec2b 21,40,53,75,88-99,111,142,194,205,247,264,302,327,363,379,395,412,435,531,558
+src/content/docs/browser-run/quick-actions/json-endpoint.mdx
+  s_09253df7164ff9::t_df6b7a50285da6 28,58,208,237,356
+src/content/docs/browser-run/quick-actions/links-endpoint.mdx
+  s_09253df7164ff9::t_609a40d0f6389a 20,46,178,270
+src/content/docs/browser-run/quick-actions/markdown-endpoint.mdx
+  s_09253df7164ff9::t_9b6e69cf78376e 20,45,100,126
+src/content/docs/browser-run/quick-actions/pdf-endpoint.mdx
+  s_09253df7164ff9::t_532e6e096401c9 20,44,101,131,156,172,196
+src/content/docs/browser-run/quick-actions/scrape-endpoint.mdx
+  s_09253df7164ff9::t_87c173e8939973 20,45
+src/content/docs/browser-run/quick-actions/screenshot-endpoint.mdx
+  s_09253df7164ff9::t_03d8140f1f668f 20,44,125,147,165,182,209,234
+src/content/docs/browser-run/quick-actions/snapshot.mdx
+  s_09253df7164ff9::t_23f9f593b13293 20,48,123,164
+src/content/docs/byoip/concepts/dynamic-advertisement/best-practices.mdx
+  s_09253df7164ff9::t_19cd27e5fec9e4 49-54
+src/content/docs/byoip/get-started.mdx
+  s_09253df7164ff9::t_66502d98145627 102,285
+src/content/docs/cache/advanced-configuration/cache-reserve.mdx
+  s_09253df7164ff9::t_355990919b9a01 55-59,61-63
+src/content/docs/cache/concepts/revalidation.mdx
+  s_09253df7164ff9::t_7acbaafe112291 10-11
+src/content/docs/cache/guides/index.mdx
+  s_09253df7164ff9::t_16a529396c5cd1 1-17
+src/content/docs/cache/guides/invalidate-cache.mdx
+  s_09253df7164ff9::t_4b56553736a0ac 1-254
+src/content/docs/cache/how-to/cache-keys.mdx
+  s_09253df7164ff9::t_20549a118fc086 162-165
+src/content/docs/cache/how-to/purge-cache/index.mdx
+  s_09253df7164ff9::t_30f9571f4396d9 19-20,36-37,40,52
+src/content/docs/cache/how-to/purge-cache/purge-by-single-file.mdx
+  s_09253df7164ff9::t_746c11d45da0b9 36
+src/content/docs/cache/how-to/purge-cache/purge-everything.mdx
+  s_09253df7164ff9::t_817f93b4e959e1 16-18,41
+src/content/docs/cache/how-to/tiered-cache.mdx
+  s_09253df7164ff9::t_82ee6e1eecad3e 16,24,34-42,56-61,87,90
+src/content/docs/cache/reference/etag-headers.mdx
+  s_09253df7164ff9::t_2c023ace287b73 20,64
+src/content/docs/cache/troubleshooting/investigating-tiered-cache-latency.mdx
+  s_09253df7164ff9::t_7430bf59ec7d5a 1-64
+src/content/docs/cache/troubleshooting/investigating-uncached-responses.mdx
+  s_09253df7164ff9::t_cc6f0e8e845641 57-59,100-104
+src/content/docs/cf/agents.mdx
+  s_09253df7164ff9::t_85f90150ff1fed 1-216
+src/content/docs/cf/ci.mdx
+  s_09253df7164ff9::t_b0c8f68442d01f 1-221
+src/content/docs/cf/environment-variables.mdx
+  s_09253df7164ff9::t_4e7a69a6663af5 1-48
+src/content/docs/cf/get-started/first-worker.mdx
+  s_09253df7164ff9::t_f19bbaccf942ed 1-224
+src/content/docs/cf/get-started/index.mdx
+  s_09253df7164ff9::t_005c04ba18e98f 1-253
+src/content/docs/cf/get-started/resources.mdx
+  s_09253df7164ff9::t_714736717708dd 1-178
+src/content/docs/cf/index.mdx
+  s_09253df7164ff9::t_a6a9ec49735c26 1-83
+src/content/docs/cf/projects/cloudflare-config.mdx
+  s_09253df7164ff9::t_9ca012806e2cbf 2-4,7,9-10,12-15
+src/content/docs/cf/projects/config-explorer.mdx
+  s_09253df7164ff9::t_e6a57a469a4e7b 1-29
+src/content/docs/cf/projects/index.mdx
+  s_09253df7164ff9::t_9becf3a5add31b 1-492
+src/content/docs/cf/wrangler/index.mdx
+  s_09253df7164ff9::t_ed50f4611bc7fe 1-151
+src/content/docs/cf/wrangler/migrate.mdx
+  s_09253df7164ff9::t_04eb3a44997ad1 1-703
+src/content/docs/cf/wrangler/reference.mdx
+  s_09253df7164ff9::t_247ac220106528 1-271
+src/content/docs/cloudflare-challenges/challenge-types/javascript-detections.mdx
+  s_09253df7164ff9::t_dc76399b12a184 14-21,128-144,168
+src/content/docs/cloudflare-for-platforms/cloudflare-for-saas/reference/troubleshooting.mdx
+  s_09253df7164ff9::t_7784d35ce5f554 18-29,81,83
+src/content/docs/cloudflare-for-platforms/cloudflare-for-saas/saas-customers/provider-guides/hubspot.mdx
+  s_09253df7164ff9::t_5c0d2613704584 42
+src/content/docs/cloudflare-for-platforms/cloudflare-for-saas/security/certificate-management/issue-and-validate/validate-certificates/http.mdx
+  s_09253df7164ff9::t_808964ab19aa6e 28
+src/content/docs/cloudflare-for-platforms/cloudflare-for-saas/security/certificate-management/issue-and-validate/validate-certificates/troubleshooting.mdx
+  s_09253df7164ff9::t_391653a653c5e5 4,17,19,21-23,25-36,38,40,42-48,50-86,89-102,105,107,109,111,113-114,116,118,120-122,124,126-146,148,150-202,233,237-241,243-247
+src/content/docs/cloudflare-for-platforms/cloudflare-for-saas/security/certificate-management/issue-and-validate/validate-certificates/txt.mdx
+  s_09253df7164ff9::t_e3acaef0f076ed 31
+src/content/docs/cloudflare-for-platforms/workers-for-platforms/configuration/hostname-routing.mdx
+  s_09253df7164ff9::t_b268597b46872f 77,106
+src/content/docs/cloudflare-one/access-controls/ai-controls/mcp-portals.mdx
+  s_09253df7164ff9::t_803e099c8da686 98,267
+src/content/docs/cloudflare-one/access-controls/policies/index.mdx
+  s_09253df7164ff9::t_4a84f0893eb8bc 25,100,142
+src/content/docs/cloudflare-one/email-security/settings/detection-settings/configure-link-actions.mdx
+  s_09253df7164ff9::t_da60fe3ca3f88c 52
+src/content/docs/cloudflare-one/insights/analytics/network-sessions.mdx
+  s_09253df7164ff9::t_2d39812b5be38b 13
+src/content/docs/cloudflare-one/insights/logs/dashboard-logs/gateway-logs/index.mdx
+  s_09253df7164ff9::t_69e522bab63f1a 207-208
+src/content/docs/cloudflare-one/integrations/identity-providers/facebook-login.mdx
+  s_09253df7164ff9::t_5f5e73b126984c 29
+src/content/docs/cloudflare-one/integrations/identity-providers/google-workspace.mdx
+  s_09253df7164ff9::t_3c68f04359bb83 129-151
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-tunnel/get-started/tunnel-useful-terms.mdx
+  s_09253df7164ff9::t_d043b5256f4a59 49
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-tunnel/monitor-tunnels/logs.mdx
+  s_09253df7164ff9::t_6685fb08c9a351 82-91
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-wan/configuration/how-to/configure-routes.mdx
+  s_09253df7164ff9::t_85cc8a0d1db123 391
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-wan/reference/traffic-steering.mdx
+  s_09253df7164ff9::t_35f460c80e9078 239,580,584
+src/content/docs/cloudflare-one/remote-browser-isolation/index.mdx
+  s_09253df7164ff9::t_8641fddc7d92de 25-32
+src/content/docs/cloudflare-one/remote-browser-isolation/isolation-policies.mdx
+  s_09253df7164ff9::t_cad571d8e992b6 17-20
+src/content/docs/cloudflare-one/team-and-resources/devices/cloudflare-one-client/deployment/mdm-deployment/client-version-assignments.mdx
+  s_09253df7164ff9::t_5c2700fc8978e2 50
+src/content/docs/cloudflare-one/team-and-resources/devices/cloudflare-one-client/download/index.mdx
+  s_09253df7164ff9::t_16f80303c4f36f 56
+src/content/docs/cloudflare-one/traffic-policies/egress-policies/index.mdx
+  s_09253df7164ff9::t_3564cff820ab56 40
+src/content/docs/cloudflare-one/traffic-policies/granular-permissions.mdx
+  s_09253df7164ff9::t_7aa63e0102a7a0 2-8,11,13,15,17,19,21-31,33,35,37,39,41,43-49,51-53,55,57,59-60,62,64,66,68-77,79,81,83,85-88,90,92,94,96-110
+src/content/docs/cloudflare-one/traffic-policies/http-policies/index.mdx
+  s_09253df7164ff9::t_71e327f1eaa135 761-770
+src/content/docs/cloudflare-one/traffic-policies/http-policies/package-registry-security.mdx
+  s_09253df7164ff9::t_2f12fbf94c7d57 250
+src/content/docs/cloudflare-one/traffic-policies/network-policies/index.mdx
+  s_09253df7164ff9::t_f3769f45ce629c 71,125,359-368
+src/content/docs/cloudflare-one/tutorials/detect-mcp-traffic-gateway-logs.mdx
+  s_09253df7164ff9::t_12423c1b761e2e 317,327-328
+src/content/docs/cloudflare-wan/configuration/how-to/configure-routes.mdx
+  s_09253df7164ff9::t_1132674e8c1901 410
+src/content/docs/cloudflare-wan/reference/traffic-steering.mdx
+  s_09253df7164ff9::t_36d418231239ee 240,581,585
+src/content/docs/containers/api/container-class.mdx
+  s_09253df7164ff9::t_cbbbea7c94064d 3,5-6,13,17-26,115,732
+src/content/docs/containers/api/durable-object-container.mdx
+  s_09253df7164ff9::t_f83fdf4b5a12a1 1-653
+src/content/docs/containers/api/index.mdx
+  s_09253df7164ff9::t_9a2897a914f1e3 1-104
+src/content/docs/containers/concepts/architecture.mdx
+  s_09253df7164ff9::t_a10642d70d96db 13,15,17-52,68,70,74,84,108-110,118,120,130-132,134,136-139,143,145-146,148-150
+src/content/docs/containers/concepts/index.mdx
+  s_09253df7164ff9::t_c111029b23acb4 99
+src/content/docs/containers/configuration/environment-variables.mdx
+  s_09253df7164ff9::t_dcc0011e8598c7 6
+src/content/docs/containers/configuration/index.mdx
+  s_09253df7164ff9::t_011ddcd61702ad 4
+src/content/docs/containers/configuration/outbound-traffic.mdx
+  s_09253df7164ff9::t_368fe1515456d9 35,67-70,93,309-314,369,372,411,426
+src/content/docs/containers/configuration/rollouts.mdx
+  s_09253df7164ff9::t_c9e3a41054f14d 6,13-16,60,151-154,156,167
+src/content/docs/containers/configuration/scaling-and-routing.mdx
+  s_09253df7164ff9::t_61b4b19d01e681 6,14
+src/content/docs/containers/configuration/scheduling-policy.mdx
+  s_09253df7164ff9::t_c8ddf57e4d5ae1 1-202
+src/content/docs/containers/configuration/workers-connections.mdx
+  s_09253df7164ff9::t_97549dbb11846a 5,11,60,62
+src/content/docs/containers/configuration/wrangler.mdx
+  s_09253df7164ff9::t_9bd9a4a1b452a0 1-79
+src/content/docs/containers/examples/container-backend.mdx
+  s_09253df7164ff9::t_a0c7110b6f4154 13-19,32,34-37,57-60,62,147-237,242-247,253,264,266-269,271-272,274,294,308-310,318-335
+src/content/docs/containers/examples/cron.mdx
+  s_09253df7164ff9::t_9b48ab4cc9bd04 13,21,25-28,48-51,53,59-104,106-109,111,126-140,143-148
+src/content/docs/containers/examples/durable-object-interface.mdx
+  s_09253df7164ff9::t_b9cb811ecefca5 5
+src/content/docs/containers/examples/env-vars-and-secrets.mdx
+  s_09253df7164ff9::t_e421a66c361883 16,84-86
+src/content/docs/containers/examples/index.mdx
+  s_09253df7164ff9::t_e90aee7a53de49 6
+src/content/docs/containers/examples/stateless.mdx
+  s_09253df7164ff9::t_a4b8a77c99e38a 13,15-93,99-103,115,117-118,120-121,123
+src/content/docs/containers/examples/status-hooks.mdx
+  s_09253df7164ff9::t_22214ab7ef1681 14,16-91,93,103,118,123-128
+src/content/docs/containers/examples/websocket.mdx
+  s_09253df7164ff9::t_c062cd92d8d963 13,15-91,94-98,104,110,113-116
+src/content/docs/containers/faq.mdx
+  s_09253df7164ff9::t_0130be470aa1b1 107-108,110-112,127-129,150,153,155-156,159-162,179-181,185
+src/content/docs/containers/get-started/index.mdx
+  s_09253df7164ff9::t_8d06c49768b056 18-19,77,98-101,103,115,176
+src/content/docs/containers/guides/execute-commands.mdx
+  s_09253df7164ff9::t_ca359983e4eb60 14,155,225,243,265,300,448-472,513
+src/content/docs/containers/guides/image-management.mdx
+  s_09253df7164ff9::t_9b1f7a8bf8f352 4,11-16,18-160,191,193,201-205,235,243,276,345,406-419,445,461,463,465-491,493,497
+src/content/docs/containers/guides/local-dev.mdx
+  s_09253df7164ff9::t_01cefb3050d4d0 11,16-17,70-95
+src/content/docs/containers/guides/migrate-to-durable-object-container-api.mdx
+  s_09253df7164ff9::t_382b25dad2d908 1-36
+src/content/docs/containers/guides/migrate-to-durable-object-scheduling-policy.mdx
+  s_09253df7164ff9::t_5997dac96c92ba 1-226
+src/content/docs/containers/guides/snapshots.mdx
+  s_09253df7164ff9::t_53eb31a75acf4b 2,5-6,11-14,17-19,21-23,25-27,30-36,38-39,43,45,47,49,52,54-57,59-61,63-64,67,70,72,74,76,78-80
+src/content/docs/containers/index.mdx
+  s_09253df7164ff9::t_6bfab84339f520 24,48,52-176,224-232,257,269-270,282-283
+src/content/docs/containers/platform/index.mdx
+  s_09253df7164ff9::t_8214c20c69bb00 6
+src/content/docs/containers/platform/limits.mdx
+  s_09253df7164ff9::t_2180564031d178 4,19,27-29,33-39,59-69
+src/content/docs/containers/reference/index.mdx
+  s_09253df7164ff9::t_0ef0aec4d8aedd 4,6
+src/content/docs/dns/reference/domain-connect.mdx
+  s_09253df7164ff9::t_e340145b702ead 115-116,118,121-124,127,129-131
+src/content/docs/dns/zone-setups/troubleshooting/pending-nameservers.mdx
+  s_09253df7164ff9::t_90d207a102db12 159
+src/content/docs/docs-for-agents/index.mdx
+  s_09253df7164ff9::t_3e2d062e4c6724 58-64
+src/content/docs/durable-objects/api/container.mdx
+  s_09253df7164ff9::t_c325939d0f0a4f 2-5,7,9
+src/content/docs/durable-objects/api/state.mdx
+  s_09253df7164ff9::t_f8270b4d166489 82,84
+src/content/docs/durable-objects/best-practices/websockets.mdx
+  s_09253df7164ff9::t_5d886f26b44668 317
+src/content/docs/durable-objects/concepts/durable-object-lifecycle.mdx
+  s_09253df7164ff9::t_8783188eba3c1f 50,66-67,69,71,93
+src/content/docs/durable-objects/platform/pricing.mdx
+  s_09253df7164ff9::t_8d6e8975b39934 34
+src/content/docs/durable-objects/reference/durable-object-class-migrations-legacy.mdx
+  s_09253df7164ff9::t_8da36652b200ad 23
+src/content/docs/durable-objects/reference/durable-objects-migrations.mdx
+  s_09253df7164ff9::t_124804f06f72df 539
+src/content/docs/dynamic-workers/usage/egress-control.mdx
+  s_09253df7164ff9::t_5c7a3e84b51e4f 65
+src/content/docs/email-service/concepts/suppressions.mdx
+  s_09253df7164ff9::t_e24e4334560aad 21,23-34,58-59,99
+src/content/docs/email-service/configuration/email-routing-addresses.mdx
+  s_09253df7164ff9::t_0e4dca96f9ce98 11,142-175
+src/content/docs/email-service/configuration/subdomains.mdx
+  s_09253df7164ff9::t_1b13fb47b6a51e 27
+src/content/docs/email-service/configuration/suppressions.mdx
+  s_09253df7164ff9::t_4ede0560e27462 3,13,15,27,34-35,38,44-45,50,66-117,124
+src/content/docs/email-service/platform/limits.mdx
+  s_09253df7164ff9::t_60895e234779ca 42-48
+src/content/docs/fundamentals/api/get-started/account-owned-tokens.mdx
+  s_09253df7164ff9::t_083b3d6dbb0aa6 19-22,24,27-29,33-34
+src/content/docs/fundamentals/api/how-to/account-owned-token-template.mdx
+  s_09253df7164ff9::t_153c2e42d5d430 43
+src/content/docs/fundamentals/api/how-to/create-via-api.mdx
+  s_09253df7164ff9::t_0e7e0575e53019 111-120,147-148
+src/content/docs/fundamentals/api/reference/permissions.mdx
+  s_09253df7164ff9::t_83d24704d27a08 199-200,377-378
+src/content/docs/fundamentals/manage-members/roles.mdx
+  s_09253df7164ff9::t_57de658a6710b0 23,28,32,50-62,73,122-127,129-137,147-157
+src/content/docs/hyperdrive/reference/supported-databases-and-features.mdx
+  s_09253df7164ff9::t_8a003a4317b2a1 17
+src/content/docs/images/reference/troubleshooting.mdx
+  s_09253df7164ff9::t_9300bb1bab3841 44
+src/content/docs/k2/concepts/index.mdx
+  s_09253df7164ff9::t_767de473742728 1-75
+src/content/docs/k2/configuration/index.mdx
+  s_09253df7164ff9::t_b3b3b638605579 1-125
+src/content/docs/k2/features/consume.mdx
+  s_09253df7164ff9::t_2a8e7faf383489 2-6,11,13-15,17,19,21-24,26,28,30,32-34,36-41,43,45-48,50-61,63-69,72-81,83,85-90,92-108,111-114,116,118-126,129-151,153,155-173,177,179,181,183-186,188-193,195,197-204,207-208,211-213,215-216,218,220,222-228,230-236,239,241-244,246,248-249,251-257,259-261,263-281,283,285,287,289,291-307,309,311,313
+src/content/docs/k2/features/index.mdx
+  s_09253df7164ff9::t_692f6fef68f409 1-15
+src/content/docs/k2/features/produce.mdx
+  s_09253df7164ff9::t_0b52f9d7199e98 1-229
+src/content/docs/k2/get-started/index.mdx
+  s_09253df7164ff9::t_f7238ee6e28b2c 1-348
+src/content/docs/k2/index.mdx
+  s_09253df7164ff9::t_b9f6eaeb240b99 1-88
+src/content/docs/k2/platform/index.mdx
+  s_09253df7164ff9::t_d986205b2d26fa 1-15
+src/content/docs/k2/platform/limits.mdx
+  s_09253df7164ff9::t_bc9a946e928fed 2-8,11,13,15,17-18,20,22-27,29,31,33-40,42-44,46-47,49,51,53-59,61
+src/content/docs/learning-paths/data-center-protection/configure-tunnels-routes/configure-routes.mdx
+  s_09253df7164ff9::t_c2e3d867ba0f46 356
+src/content/docs/learning-paths/warp-overview-course/series/warp-basics-1.mdx
+  s_09253df7164ff9::t_2d0b76899fc0be 23
+src/content/docs/load-balancing/troubleshooting/load-balancing-faq.mdx
+  s_09253df7164ff9::t_cf41398e38a5a7 52
+src/content/docs/logs/faq/general-faq.mdx
+  s_09253df7164ff9::t_c060d6688d6b79 25
+src/content/docs/logs/logpush/index.mdx
+  s_09253df7164ff9::t_b1c6f92688886b 56,58,60
+src/content/docs/logs/logpush/logpush-health.mdx
+  s_09253df7164ff9::t_8f7df1f5e046e6 23-28,33,65,75-83,89,98-105,111,118-126,132-142,152-160
+src/content/docs/logs/logpush/logpush-job/enable-destinations/pipelines.mdx
+  s_09253df7164ff9::t_03abca4af051c5 3,6,9,14,16,18,34,39-41,44-45
+src/content/docs/logs/logpush/pricing.mdx
+  s_09253df7164ff9::t_85ca9f7600b93e 1-74
+src/content/docs/logs/logpush/transformers.mdx
+  s_09253df7164ff9::t_a61bdc87a7d94e 11,17-18,30,37-53,85-96,115,145,173-182,208-217,239-248,278-287,295-304
+src/content/docs/magic-transit/how-to/configure-routes.mdx
+  s_09253df7164ff9::t_4b47a371f2eadd 362
+src/content/docs/magic-transit/reference/traffic-steering.mdx
+  s_09253df7164ff9::t_d8476a67290c3a 174,479,483
+src/content/docs/monetization-gateway/configuration/index.mdx
+  s_09253df7164ff9::t_bc9a22c534492b 1-17
+src/content/docs/monetization-gateway/configuration/payment-validation.mdx
+  s_09253df7164ff9::t_b38b3e8c5df672 1-85
+src/content/docs/monetization-gateway/configuration/rules.mdx
+  s_09253df7164ff9::t_a8a03de9b62c38 1-64
+src/content/docs/monetization-gateway/eligibility.mdx
+  s_09253df7164ff9::t_f3779e177c2572 1-30
+src/content/docs/monetization-gateway/get-started/index.mdx
+  s_09253df7164ff9::t_b89cf68cb44a32 1-42
+src/content/docs/monetization-gateway/index.mdx
+  s_09253df7164ff9::t_130d8161272dd4 1-43
+src/content/docs/monetization-gateway/x402.mdx
+  s_09253df7164ff9::t_7357d48fda160b 1-97
+src/content/docs/moq/demo-streams/index.mdx
+  s_09253df7164ff9::t_7a7e3611956d7e 1-56
+src/content/docs/pages/how-to/preview-with-cloudflare-tunnel.mdx
+  s_09253df7164ff9::t_970bf33e30e6be 11,13
+src/content/docs/queues/event-subscriptions/events-schemas.mdx
+  s_09253df7164ff9::t_d9d08c2f05164e 28-31
+src/content/docs/r2/api/tokens.mdx
+  s_09253df7164ff9::t_2cecb114132715 29,70,73
+src/content/docs/r2/buckets/cors.mdx
+  s_09253df7164ff9::t_cd088ee3c9fef8 164-169
+src/content/docs/r2/buckets/public-buckets.mdx
+  s_09253df7164ff9::t_5f0a991df2c057 134
+src/content/docs/r2/index.mdx
+  s_09253df7164ff9::t_efc5d51e28e4b0 80,82
+src/content/docs/r2/platform/metrics-analytics.mdx
+  s_09253df7164ff9::t_6bf7a538e4bf6d 4,11,17,19-23,25-33,44,53-54,56,58,60-75,167-201
+src/content/docs/r2/pricing.mdx
+  s_09253df7164ff9::t_278b00bf4591f1 100,102-104
+src/content/docs/r2/r2-data-catalog.mdx
+  s_09253df7164ff9::t_cd50cae4739397 3-4,8
+src/content/docs/r2/r2-sql.mdx
+  s_09253df7164ff9::t_373f7a9df1f731 3-4,8
+src/content/docs/realtime/realtimekit/core/ios-screen-sharing.mdx
+  s_09253df7164ff9::t_2f3ae596318ed3 1-171
+src/content/docs/realtime/realtimekit/core/local-participant.mdx
+  s_09253df7164ff9::t_cf4bc0352e0632 606
+src/content/docs/realtime/realtimekit/faq.mdx
+  s_09253df7164ff9::t_555345f37be6b9 10,24-53,255-262
+src/content/docs/realtime/realtimekit/recording-guide/create-record-app-using-sdks.mdx
+  s_09253df7164ff9::t_dd4841d76827f8 67
+src/content/docs/realtime/turn/custom-domains.mdx
+  s_09253df7164ff9::t_f56c5d3e5b50b2 16
+src/content/docs/realtime/turn/generate-credentials.mdx
+  s_09253df7164ff9::t_b51a4cd9fa9777 48,78
+src/content/docs/realtime/turn/index.mdx
+  s_09253df7164ff9::t_26d72863368074 20
+src/content/docs/reference-architecture/architectures/load-balancing.mdx
+  s_09253df7164ff9::t_c14ce28f3006ea 381
+src/content/docs/reference-architecture/diagrams/ai/ai-vibe-coding-platform.mdx
+  s_09253df7164ff9::t_0127ade97977fa 8,59-64,72,74
+src/content/docs/reference-architecture/diagrams/ai/enterprise-ai-agent-workspace.mdx
+  s_09253df7164ff9::t_d853cba239c0b3 18,43,51,78,89
+src/content/docs/reference-architecture/diagrams/ai/enterprise-ai-vibe-coding-platform.mdx
+  s_09253df7164ff9::t_2d304e86320b7b 57
+src/content/docs/reference-architecture/diagrams/serverless/fullstack-application.mdx
+  s_09253df7164ff9::t_751515aa11f310 4-29,91
+src/content/docs/rules/custom-errors/api-calls.mdx
+  s_09253df7164ff9::t_78bf00d48f27a1 179,213
+src/content/docs/rules/transform/managed-transforms/reference.mdx
+  s_09253df7164ff9::t_98055cdf481ab1 60-61
+src/content/docs/ruleset-engine/reference/phases-list.mdx
+  s_09253df7164ff9::t_a9db30427aded6 41,47,60-63
+src/content/docs/ruleset-engine/rules-language/expressions/index.mdx
+  s_09253df7164ff9::t_8cfc9776a0e74d 38
+src/content/docs/ruleset-engine/rules-language/functions.mdx
+  s_09253df7164ff9::t_6acec8129453c9 133-146
+src/content/docs/ruleset-engine/rules-language/operators.mdx
+  s_09253df7164ff9::t_013f8cbd8fb980 191-209
+src/content/docs/ruleset-engine/rules-language/values.mdx
+  s_09253df7164ff9::t_254a6eb10b27f6 161,174,229-260
+src/content/docs/ruleset-engine/rulesets-api/json-object.mdx
+  s_09253df7164ff9::t_227391a9a1d0c9 114-115
+src/content/docs/sandbox/coding-agents/claude-code.mdx
+  s_09253df7164ff9::t_45ce27b581bde4 1-209
+src/content/docs/sandbox/coding-agents/claude-managed-agents.mdx
+  s_09253df7164ff9::t_3cb14488cb75f1 2-4,6-7,14,19,22,25-27,29,31,33-36,38,40,42-52,59-60,62,64,67,70,72,76-85
+src/content/docs/sandbox/coding-agents/codex.mdx
+  s_09253df7164ff9::t_c3e08902aa4539 1-226
+src/content/docs/sandbox/coding-agents/cursor.mdx
+  s_09253df7164ff9::t_b3bc2f07974927 2-4,6-7,11-13,17,19,27,99,114,181,183,185,187-201,239
+src/content/docs/sandbox/coding-agents/devin.mdx
+  s_09253df7164ff9::t_05225729c17940 2-4,6-7,10-12,16,18,25,31,37-39,42,46,50,57,61,81,85,93,99,101,107,111-112,119-121,123,125-129,131,133-141,144,147-152,155-158
+src/content/docs/sandbox/coding-agents/index.mdx
+  s_09253df7164ff9::t_ac876bce0ba807 1-96
+src/content/docs/sandbox/coding-agents/openai-agents-api.mdx
+  s_09253df7164ff9::t_d2a786f83c3f03 2-4,6-7,11-12,17,21,25,31,33-34,36,38,40,43,68,84,86,94,96,105,111,117,119,182,188,191,195,200,206,215,223,225,231,262,264,279,291,293,296,298,300,302,304,306,308,314,316-318,320,322,324,328,330,342,344,348,350-352,354,358
+src/content/docs/sandbox/coding-agents/opencode.mdx
+  s_09253df7164ff9::t_2b364af55133cd 1-221
+src/content/docs/sandbox/coding-agents/pi.mdx
+  s_09253df7164ff9::t_68040e3c16de58 1-238
+src/content/docs/sandbox/commands/index.mdx
+  s_09253df7164ff9::t_565f63b9b396cb 1-27
+src/content/docs/sandbox/commands/open-a-terminal-in-the-browser.mdx
+  s_09253df7164ff9::t_048c60f18c91ad 1-400
+src/content/docs/sandbox/commands/run-a-server-in-the-background.mdx
+  s_09253df7164ff9::t_2e966e1f007584 1-271
+src/content/docs/sandbox/commands/run-background-processes.mdx
+  s_09253df7164ff9::t_8da874e367a6b4 1-559
+src/content/docs/sandbox/commands/run-python-code.mdx
+  s_09253df7164ff9::t_b4f7586d05128d 1-268
+src/content/docs/sandbox/commands/run-tests-from-a-git-repository.mdx
+  s_09253df7164ff9::t_fa021e963d8846 1-210
+src/content/docs/sandbox/commands/stream-command-output.mdx
+  s_09253df7164ff9::t_b5a5ca7ca3d654 1-217
+src/content/docs/sandbox/concepts/index.mdx
+  s_09253df7164ff9::t_302fb9a3ad189b 2-4,6-9,12-15,18-19,21,23,25-87
+src/content/docs/sandbox/concepts/lifetime.mdx
+  s_09253df7164ff9::t_0dc57678f3a90e 1-106
+src/content/docs/sandbox/concepts/security.mdx
+  s_09253df7164ff9::t_5b71cd40dda4b4 2-3,6-7,10-14,17,19,21,23,25,27,29,31,33,35,37,39,41,43,45,47,49,51,53,55,57,59,61,63,65,67,71-75
+src/content/docs/sandbox/files/back-up-a-directory-to-r2.mdx
+  s_09253df7164ff9::t_bc05e094db8b15 1-333
+src/content/docs/sandbox/files/index.mdx
+  s_09253df7164ff9::t_1001df918e41b6 1-41
+src/content/docs/sandbox/files/manage-files.mdx
+  s_09253df7164ff9::t_4aa7fb4f875a19 1-297
+src/content/docs/sandbox/files/mount-an-r2-bucket.mdx
+  s_09253df7164ff9::t_476c2460f8bab6 1-325
+src/content/docs/sandbox/files/save-a-sandbox-automatically.mdx
+  s_09253df7164ff9::t_8a748bf95eac30 2-3,6-8,11-14,17,19,21-22,25-184,186-197,199-203,205-210,212,214,216-219
+src/content/docs/sandbox/files/save-and-restore-a-workspace.mdx
+  s_09253df7164ff9::t_f4e492fa3bb33d 1-270
+src/content/docs/sandbox/get-started/build-a-coding-agent-runner.mdx
+  s_09253df7164ff9::t_04b975b13c1ac5 1-907
+src/content/docs/sandbox/get-started/build-an-ai-code-interpreter.mdx
+  s_09253df7164ff9::t_e3d33457c1c498 1-350
+src/content/docs/sandbox/get-started/dynamic-workers.mdx
+  s_09253df7164ff9::t_f678574c2782ff 2-4,6,9-11,14-20,22,28,30,32,34-38,40,42-44,46,48,50-66,68,70,72,74,76,78-79,81-83,85-87,89-94,96-107,109-115,117,119,121,123,125,127-131,133,135,139-141
+src/content/docs/sandbox/get-started/index.mdx
+  s_09253df7164ff9::t_2dc5b08d7f01f9 1-160
+src/content/docs/sandbox/index.mdx
+  s_09253df7164ff9::t_84f81f45e9598a 2-3,14-15,29,35,37,39,41,45,47,49,51,53,55-63,65-73,77,79,81,83,85-94,96-104,108,112-118,122-124,126-127,131-133,135-136,139-141,143-147,150-151,155-157,159,163-165,167,171-173,175,179-181,183-184,188-220
+src/content/docs/sandbox/manage/index.mdx
+  s_09253df7164ff9::t_58d14a032c221d 1-19
+src/content/docs/sandbox/manage/list-sandboxes.mdx
+  s_09253df7164ff9::t_662e971749fa4f 1-249
+src/content/docs/sandbox/manage/run-code-when-a-sandbox-stops.mdx
+  s_09253df7164ff9::t_521f8fee3ff382 1-274
+src/content/docs/sandbox/network/call-an-authenticated-api.mdx
+  s_09253df7164ff9::t_d3dd6afc4bc8b3 1-268
+src/content/docs/sandbox/network/clone-a-private-repository.mdx
+  s_09253df7164ff9::t_54e7766b2aff27 1-206
+src/content/docs/sandbox/network/index.mdx
+  s_09253df7164ff9::t_1ab0c54070b3a1 1-24
+src/content/docs/sandbox/previews/index.mdx
+  s_09253df7164ff9::t_1b2c221648f2ad 1-424
+src/content/docs/sandbox/previews/serve-previews-on-their-own-hostnames.mdx
+  s_09253df7164ff9::t_c8f29fff721242 1-152
+src/content/docs/sandbox/reference/directory-backups.mdx
+  s_09253df7164ff9::t_ea5e67390906d3 2-4,6-7,10-13,16,18,20,22-65,67,69,71,73,75-76,78-80,82,84,86-92,94-96,98,100,102,104-105,108-114,117,120,122-127,129,132-133,135,137,139-140,143,145,147,149-151,153-167,169-181,183,185,187,189-194,196,198,200-201,203,205-209,211,213-214,216,218,220,222,224,226,228-233,235,237-241,243,245,247,249,251,253,255,257,259,261-262,264,266,268-332,334-337
+src/content/docs/sandbox/reference/files.mdx
+  s_09253df7164ff9::t_a1e0c40f9e8fd3 2-3,7,10-12,17,19,21,24-37,39-45,48,50,52,54,56,59,62,64,66-75,78-82,85-89,91,93-95,98,101,103-105,107,109,112-121,124,126-129,131,134-135,138,141,144,146,149,152,154,157-160,163,165-169,171,174,176-179,181-183,188,190,193,195-197,200-205,207,210-214,217,219-223,225,228,230-233,236,238-241,243,245,248-249,252,254-265,267,269,271-274,276,279-286,289,291,293,295-302,304,306,308,310,312-316,318,320,322,324-330,332,334-336
+src/content/docs/sandbox/reference/index.mdx
+  s_09253df7164ff9::t_28ce81c1327de6 2-3,6-9,12-14,17-22,24,26,28,30,32,34,36,38-40,42,44-45,47,49,51-52,54,56-57,60-95,99,101,103,106-147,150,152,154,156
+src/content/docs/sandbox/reference/s3-mounts.mdx
+  s_09253df7164ff9::t_3ccc37f845538f 1-277
+src/content/docs/sandbox/sdk/api/backups.mdx
+  s_09253df7164ff9::t_a1dbdea7d995dc 3,9-11,14-16,20,85,89,146,189,228-232
+src/content/docs/sandbox/sdk/api/commands.mdx
+  s_09253df7164ff9::t_d28cbbf20fcff6 3,9-11,14,16,18,83,85,498-499
+src/content/docs/sandbox/sdk/api/file-watching.mdx
+  s_09253df7164ff9::t_3061ea0e83fe24 3,9-11,14,16,219-220
+src/content/docs/sandbox/sdk/api/files.mdx
+  s_09253df7164ff9::t_54ff5da1d0eee4 3,9-11,14-16,51,75,251-252
+src/content/docs/sandbox/sdk/api/index.mdx
+  s_09253df7164ff9::t_62f9fa23dacbbe 3,9-11,14,16,22,27,32,39,48,55,60,66,71,75,80
+src/content/docs/sandbox/sdk/api/interpreter.mdx
+  s_09253df7164ff9::t_67101e67738613 3,9-11,14,16,18,226-228
+src/content/docs/sandbox/sdk/api/lifecycle.mdx
+  s_09253df7164ff9::t_6846f8bfa3ba0f 3,9-11,14,16,18,37,47,148-150
+src/content/docs/sandbox/sdk/api/ports.mdx
+  s_09253df7164ff9::t_54db33ae6159b7 3,9-11,14,16,19,23,26,134,259,293-297
+src/content/docs/sandbox/sdk/api/sessions.mdx
+  s_09253df7164ff9::t_5b765d1d42d23f 3,9-11,14,16,18,21,192-197,201-202
+src/content/docs/sandbox/sdk/api/storage.mdx
+  s_09253df7164ff9::t_ba2df33f5ec32d 3,9-11,14-16,85,214-215
+src/content/docs/sandbox/sdk/api/terminal.mdx
+  s_09253df7164ff9::t_2e6ee768bc459d 6,9-11,14,16,18,46,141,211-214
+src/content/docs/sandbox/sdk/api/tunnels.mdx
+  s_09253df7164ff9::t_a29d8a269b24ab 3,9-11,14-16,26,33,371-374
+src/content/docs/sandbox/sdk/bridge/http-api.mdx
+  s_09253df7164ff9::t_2650fc250dd235 6,11-13,16,18,20,215-217
+src/content/docs/sandbox/sdk/bridge/index.mdx
+  s_09253df7164ff9::t_c4c1f41f12e12c 6,14-16,19,21,23,31,37,56,309-311,315-319
+src/content/docs/sandbox/sdk/concepts/architecture.mdx
+  s_09253df7164ff9::t_b7c49c521f15cf 3,12-14,17-19,133,161-164
+src/content/docs/sandbox/sdk/concepts/backup-restore.mdx
+  s_09253df7164ff9::t_0aea1687cc3565 3,9-11,14-17,20,43,47-49
+src/content/docs/sandbox/sdk/concepts/containers.mdx
+  s_09253df7164ff9::t_eb15b292d0213a 3,9-11,14,16,18,86,118,120-123
+src/content/docs/sandbox/sdk/concepts/index.mdx
+  s_09253df7164ff9::t_0d45fffb9b6129 1-33
+src/content/docs/sandbox/sdk/concepts/preview-urls.mdx
+  s_09253df7164ff9::t_5f47b132b5ddca 3,9-11,14-17,42,49,142,225,236,283,305-310
+src/content/docs/sandbox/sdk/concepts/sandboxes.mdx
+  s_09253df7164ff9::t_0d5ac1bbfacdfe 3,9-11,14-17,43,45,133,173,186,198-203
+src/content/docs/sandbox/sdk/concepts/security.mdx
+  s_09253df7164ff9::t_7522e6dc1cafff 1-220
+src/content/docs/sandbox/sdk/concepts/sessions.mdx
+  s_09253df7164ff9::t_e2ae2b4251f4d7 3,9-11,14-17,119,227-228
+src/content/docs/sandbox/sdk/concepts/terminal.mdx
+  s_09253df7164ff9::t_5f59c0df4bc9db 3,9-11,14,16,18,52,56,81,94-97
+src/content/docs/sandbox/sdk/configuration/dockerfile.mdx
+  s_09253df7164ff9::t_8947188629a51d 3,9-11,14-16,46,176,178
+src/content/docs/sandbox/sdk/configuration/environment-variables.mdx
+  s_09253df7164ff9::t_152b09996329c0 3,9-11,14,16,43,54,284,354,381-382,384-386
+src/content/docs/sandbox/sdk/configuration/index.mdx
+  s_09253df7164ff9::t_d05b0f31d730b6 3,9-11,14-16,24,33,42,50,58,68,71
+src/content/docs/sandbox/sdk/configuration/sandbox-options.mdx
+  s_09253df7164ff9::t_52e843723061c2 3,9-11,14,16,18,66,253-257
+src/content/docs/sandbox/sdk/configuration/transport.mdx
+  s_09253df7164ff9::t_8c93b2d70e04e8 3,11-13,16,18,20,216-217,219
+src/content/docs/sandbox/sdk/configuration/wrangler.mdx
+  s_09253df7164ff9::t_44559c9091ecb7 3,11-13,16-18,67,103,149,151,154-156
+src/content/docs/sandbox/sdk/get-started.mdx
+  s_09253df7164ff9::t_bca22b7a44aad7 3,9-11,16,18,41,205,211-218
+src/content/docs/sandbox/sdk/guides/background-processes.mdx
+  s_09253df7164ff9::t_c753e6bbc78c3c 6,9-11,14,16,18,31,207,291-297
+src/content/docs/sandbox/sdk/guides/backup-restore.mdx
+  s_09253df7164ff9::t_854feda86b4535 6,9-11,14-16,22,153,181,368-370
+src/content/docs/sandbox/sdk/guides/browser-terminals.mdx
+  s_09253df7164ff9::t_54514b06347c62 6,9-11,14,16,18,22,109,168,179-181
+src/content/docs/sandbox/sdk/guides/code-execution.mdx
+  s_09253df7164ff9::t_6b4aabac87080d 6,9-11,14,16,18,272-274
+src/content/docs/sandbox/sdk/guides/deploy.mdx
+  s_09253df7164ff9::t_8a0f79edac21dd 6,10-12,15,17,19,21,25,35,60
+src/content/docs/sandbox/sdk/guides/docker-in-docker.mdx
+  s_09253df7164ff9::t_696b9fc4107771 6,9-11,16-17,30,104-106
+src/content/docs/sandbox/sdk/guides/execute-commands.mdx
+  s_09253df7164ff9::t_13250599050df4 6,9-11,14,16,18,29,179,194,202,236-239
+src/content/docs/sandbox/sdk/guides/expose-services.mdx
+  s_09253df7164ff9::t_b73921476f779f 6,9-11,14,16,19,23,99,387,402-405
+src/content/docs/sandbox/sdk/guides/file-watching.mdx
+  s_09253df7164ff9::t_c1ca59dd131911 6,9-11,14-16,510-513
+src/content/docs/sandbox/sdk/guides/git-workflows.mdx
+  s_09253df7164ff9::t_2fcc622322d433 6,9-11,14,16,18,62,152-154
+src/content/docs/sandbox/sdk/guides/index.mdx
+  s_09253df7164ff9::t_6a806d0d50cc25 3,9-11,14-16,20,24-25
+src/content/docs/sandbox/sdk/guides/manage-files.mdx
+  s_09253df7164ff9::t_7619fe17b38955 6,9-11,14-16,84,221-224
+src/content/docs/sandbox/sdk/guides/mount-buckets.mdx
+  s_09253df7164ff9::t_43ffdbb5adb3a7 6,9-11,14-16,21,457-461,463
+src/content/docs/sandbox/sdk/guides/outbound-traffic.mdx
+  s_09253df7164ff9::t_dae9ca5739badb 6,9-11,14-16,26,209-223,310-313
+src/content/docs/sandbox/sdk/guides/preview-urls-custom-domain.mdx
+  s_09253df7164ff9::t_067839bcadcf12 6,9-11,14,16-18,23,45,91,122-125
+src/content/docs/sandbox/sdk/guides/proxy-requests.mdx
+  s_09253df7164ff9::t_4cbb298fbbdf3b 14
+src/content/docs/sandbox/sdk/guides/streaming-output.mdx
+  s_09253df7164ff9::t_bac6911f449a50 6,9-11,14,16,18,176-179
+src/content/docs/sandbox/sdk/guides/websocket-connections.mdx
+  s_09253df7164ff9::t_cb769f7a47712d 6,9-11,14-16,256-259
+src/content/docs/sandbox/sdk/guides/workers-connections.mdx
+  s_09253df7164ff9::t_2e1ea55526429d 6,12-14,17,19-21,86-88
+src/content/docs/sandbox/sdk/index.mdx
+  s_09253df7164ff9::t_38b16828964291 2-4,6-12,15-16,19,21-24,27-29,34-36,38,42-44,46,49-54,56-58,60,64-66,68,71-73,75-81,83,85,87
+src/content/docs/sandbox/sdk/migrate/api-map.mdx
+  s_09253df7164ff9::t_e9d73f73be4967 1-251
+src/content/docs/sandbox/sdk/migrate/background-processes.mdx
+  s_09253df7164ff9::t_2f1e6d80d8f763 1-271
+src/content/docs/sandbox/sdk/migrate/backups.mdx
+  s_09253df7164ff9::t_bd3f5060645331 1-301
+src/content/docs/sandbox/sdk/migrate/bucket-mounts.mdx
+  s_09253df7164ff9::t_286791b19cd19e 1-246
+src/content/docs/sandbox/sdk/migrate/changes-in-1-0.mdx
+  s_09253df7164ff9::t_e78bc931e1de18 1-57
+src/content/docs/sandbox/sdk/migrate/code-interpreter.mdx
+  s_09253df7164ff9::t_fda43e9a50e0c6 1-521
+src/content/docs/sandbox/sdk/migrate/commands.mdx
+  s_09253df7164ff9::t_e50fac60783110 1-168
+src/content/docs/sandbox/sdk/migrate/files.mdx
+  s_09253df7164ff9::t_7cde71b4290c08 1-195
+src/content/docs/sandbox/sdk/migrate/index.mdx
+  s_09253df7164ff9::t_2b0186f63ee6b1 1-101
+src/content/docs/sandbox/sdk/migrate/move-side-by-side.mdx
+  s_09253df7164ff9::t_ccf5fa9314895c 1-284
+src/content/docs/sandbox/sdk/migrate/other-features.mdx
+  s_09253df7164ff9::t_e951f82fed06af 1-616
+src/content/docs/sandbox/sdk/migrate/outbound-traffic.mdx
+  s_09253df7164ff9::t_9190e5469db1f1 1-350
+src/content/docs/sandbox/sdk/migrate/plan-the-move.mdx
+  s_09253df7164ff9::t_41a366eb693a05 1-129
+src/content/docs/sandbox/sdk/migrate/preview-urls.mdx
+  s_09253df7164ff9::t_391065ad3ee15d 1-323
+src/content/docs/sandbox/sdk/migrate/replace-the-sandbox-class.mdx
+  s_09253df7164ff9::t_66bbe78fa1cffa 1-303
+src/content/docs/sandbox/sdk/migrate/terminals.mdx
+  s_09253df7164ff9::t_c1869a45d17bfd 1-267
+src/content/docs/sandbox/sdk/migrate/tunnels.mdx
+  s_09253df7164ff9::t_3dc141c92e9b7d 1-358
+src/content/docs/sandbox/sdk/platform/index.mdx
+  s_09253df7164ff9::t_5b5bf345c32d7f 3,9-11,14-17,22-23
+src/content/docs/sandbox/sdk/platform/limits.mdx
+  s_09253df7164ff9::t_360c310a5b37ab 3,9-11,14-16,61,69
+src/content/docs/sandbox/sdk/platform/pricing.mdx
+  s_09253df7164ff9::t_dc561cc523595c 3,9-11,14-17
+src/content/docs/sandbox/sdk/tutorials/ai-code-executor.mdx
+  s_09253df7164ff9::t_56423599367065 7,11-13,18-19,43,243-247
+src/content/docs/sandbox/sdk/tutorials/analyze-data-with-ai.mdx
+  s_09253df7164ff9::t_65eedd15e49260 7,11-13,18-19,40,301-303
+src/content/docs/sandbox/sdk/tutorials/automated-testing-pipeline.mdx
+  s_09253df7164ff9::t_14ab414512ddde 7,11-13,18-19,35,240-242
+src/content/docs/sandbox/sdk/tutorials/code-review-bot.mdx
+  s_09253df7164ff9::t_8c8b93417d8dd4 7,11-13,18-19,44,366-367
+src/content/docs/sandbox/sdk/tutorials/index.mdx
+  s_09253df7164ff9::t_9fa708a234fe90 3,9-11,14,16,20,26,32-33
+src/content/docs/sandbox/sdk/tutorials/openai-agents.mdx
+  s_09253df7164ff9::t_fb1a1d1c9fcc68 7,14-16,19,21,37,43,56,255,257-259
+src/content/docs/sandbox/sdk/tutorials/persistent-storage.mdx
+  s_09253df7164ff9::t_fd746ac75380d4 7,12-14,19-20,23,49,254-256,261-262
+src/content/docs/sandbox/sdk/tutorials/workers-ai-code-interpreter.mdx
+  s_09253df7164ff9::t_9f1e09b21df279 7,12-14,19-20,45,220-223
+src/content/docs/secrets-store/manage-secrets/index.mdx
+  s_09253df7164ff9::t_b7e7a5ac2a1c52 13,31
+src/content/docs/spectrum/reference/analytics.mdx
+  s_09253df7164ff9::t_b1a11210156f5b 75-76
+src/content/docs/ssl/client-certificates/troubleshooting.mdx
+  s_09253df7164ff9::t_c56a8439c47627 16,117-180
+src/content/docs/ssl/edge-certificates/changing-dcv-method/troubleshooting.mdx
+  s_09253df7164ff9::t_ec7f5e0a7e77c7 159-221
+src/content/docs/stream/examples/test-webhooks-locally.mdx
+  s_09253df7164ff9::t_c71e543fee12af 26,46
+src/content/docs/stream/manage-video-library/using-webhooks.mdx
+  s_09253df7164ff9::t_652a833ecd5488 179
+src/content/docs/style-guide/build-the-page/components/cf-command.mdx
+  s_09253df7164ff9::t_986a8a5a7869c2 1-33
+src/content/docs/style-guide/build-the-page/components/cf-namespace.mdx
+  s_09253df7164ff9::t_0455c56bdade11 1-32
+src/content/docs/style-guide/build-the-page/components/package-managers.mdx
+  s_09253df7164ff9::t_39da20e68bed1e 10,13,16-27
+src/content/docs/style-guide/build-the-page/components/wrangler-command.mdx
+  s_09253df7164ff9::t_9389e96107290e 33-40,68,72-75
+src/content/docs/style-guide/build-the-page/components/wrangler-config.mdx
+  s_09253df7164ff9::t_d6da837c403fa7 33-52
+src/content/docs/style-guide/build-the-page/components/wrangler-namespace.mdx
+  s_09253df7164ff9::t_a79fed4d8a6520 28-29,36-39
+src/content/docs/support/troubleshooting/http-status-codes/4xx-client-error/error-400.mdx
+  s_09253df7164ff9::t_f4673d20aace11 14,22
+src/content/docs/support/troubleshooting/http-status-codes/4xx-client-error/error-401.mdx
+  s_09253df7164ff9::t_e5c330105dacd2 14
+src/content/docs/support/troubleshooting/http-status-codes/4xx-client-error/error-403.mdx
+  s_09253df7164ff9::t_350c89e58d268a 13
+src/content/docs/support/troubleshooting/http-status-codes/4xx-client-error/error-404.mdx
+  s_09253df7164ff9::t_20994d452ee116 14
+src/content/docs/support/troubleshooting/http-status-codes/4xx-client-error/error-405.mdx
+  s_09253df7164ff9::t_560e8d72144813 14
+src/content/docs/support/troubleshooting/http-status-codes/4xx-client-error/error-406.mdx
+  s_09253df7164ff9::t_c19716a70d091e 14
+src/content/docs/support/troubleshooting/http-status-codes/4xx-client-error/error-407.mdx
+  s_09253df7164ff9::t_ae52680a0d7df4 13
+src/content/docs/support/troubleshooting/http-status-codes/4xx-client-error/error-408.mdx
+  s_09253df7164ff9::t_96dca033912413 14
+src/content/docs/support/troubleshooting/http-status-codes/4xx-client-error/error-409.mdx
+  s_09253df7164ff9::t_0e283bc708728b 14
+src/content/docs/support/troubleshooting/http-status-codes/4xx-client-error/error-410.mdx
+  s_09253df7164ff9::t_7c00e9b2a348b7 18
+src/content/docs/support/troubleshooting/http-status-codes/4xx-client-error/error-411.mdx
+  s_09253df7164ff9::t_354209beba9647 14
+src/content/docs/support/troubleshooting/http-status-codes/4xx-client-error/error-412.mdx
+  s_09253df7164ff9::t_6e78f7b2ba6860 14
+src/content/docs/support/troubleshooting/http-status-codes/4xx-client-error/error-413.mdx
+  s_09253df7164ff9::t_17ea9a396be90a 16
+src/content/docs/support/troubleshooting/http-status-codes/4xx-client-error/error-414.mdx
+  s_09253df7164ff9::t_559750f99477ad 14
+src/content/docs/support/troubleshooting/http-status-codes/4xx-client-error/error-415.mdx
+  s_09253df7164ff9::t_e9b6acf7cc0833 14
+src/content/docs/support/troubleshooting/http-status-codes/4xx-client-error/error-417.mdx
+  s_09253df7164ff9::t_f00d0e364d3382 14
+src/content/docs/support/troubleshooting/http-status-codes/4xx-client-error/error-421.mdx
+  s_09253df7164ff9::t_8c5db1917f26ac 2-7,10,12,14,16,18,20-22,24,26,28,30-33,35
+src/content/docs/support/troubleshooting/http-status-codes/4xx-client-error/index.mdx
+  s_09253df7164ff9::t_df08d7cf122c29 33,96-99
+src/content/docs/support/troubleshooting/http-status-codes/cloudflare-1xxx-errors/error-1014.mdx
+  s_09253df7164ff9::t_c89dd3b24262db 16,18-20,25-27
+src/content/docs/support/troubleshooting/http-status-codes/cloudflare-1xxx-errors/error-1034.mdx
+  s_09253df7164ff9::t_72865b7bffa718 33-50
+src/content/docs/tunnel/concepts/index.mdx
+  s_09253df7164ff9::t_7a461f37a1d1cc 2-4,10,13-20,22-134
+src/content/docs/tunnel/configuration/index.mdx
+  s_09253df7164ff9::t_574b3f15565805 29
+src/content/docs/tunnel/features/locally-managed-tunnels/configuration-file.mdx
+  s_09253df7164ff9::t_ffb0653961a04b 15
+src/content/docs/tunnel/get-started/index.mdx
+  s_09253df7164ff9::t_2d4f73564c37e5 173,175,177
+src/content/docs/tunnel/get-started/quick-tunnels/index.mdx
+  s_09253df7164ff9::t_7f8f2c767cc3e8 3-6,8,11-14,16,19,21-22,24,26,28,30-32,34,36,38,40,42,44,46,48-56,58,60-97,99
+src/content/docs/tunnel/observability/index.mdx
+  s_09253df7164ff9::t_ae68838084737c 95-104
+src/content/docs/turnstile/troubleshooting/client-side-errors/error-codes.mdx
+  s_09253df7164ff9::t_59a3f82347319b 19-32
+src/content/docs/waf/custom-rules/skip/options.mdx
+  s_09253df7164ff9::t_733af6dca2c4d4 71
+src/content/docs/waf/detections/ai-security-for-apps/example-rules.mdx
+  s_09253df7164ff9::t_b9078500fb0a56 13,15,19-21,24
+src/content/docs/waf/detections/ai-security-for-apps/unsafe-topics.mdx
+  s_09253df7164ff9::t_54f96338e25387 39-46
+src/content/docs/waf/detections/application-profiles/fields.mdx
+  s_09253df7164ff9::t_66f52782a67892 21-48,51
+src/content/docs/waf/rate-limiting-rules/best-practices.mdx
+  s_09253df7164ff9::t_924ebfca9f2b9b 21-24
+src/content/docs/waf/tools/replace-insecure-js-libraries.mdx
+  s_09253df7164ff9::t_4c30e021fe84b7 40-43
+src/content/docs/warp-client/get-started/index.mdx
+  s_09253df7164ff9::t_e9e657087d7673 29
+src/content/docs/workers-ai/platform/pricing.mdx
+  s_09253df7164ff9::t_72056590540cd6 135-136
+src/content/docs/workers-vpc/configuration/vpc-networks/index.mdx
+  s_09253df7164ff9::t_8f8fff5e9e4eb0 141-150
+src/content/docs/workers-vpc/reference/troubleshooting.mdx
+  s_09253df7164ff9::t_56fb7b892aa4bc 15-20
+src/content/docs/workers/best-practices/workers-best-practices.mdx
+  s_09253df7164ff9::t_dfbcec9d7aa0f8 119
+src/content/docs/workers/ci-cd/builds/automatic-prs.mdx
+  s_09253df7164ff9::t_f00e2ebe2ab09c 11,56
+src/content/docs/workers/ci-cd/builds/build-branches.mdx
+  s_09253df7164ff9::t_9e979164177560 13
+src/content/docs/workers/ci-cd/builds/git-integration/artifacts-integration.mdx
+  s_09253df7164ff9::t_9fd2bf8c0bfa6e 1-75
+src/content/docs/workers/ci-cd/builds/git-integration/cursor-origin-integration.mdx
+  s_09253df7164ff9::t_09cc90167c8113 11
+src/content/docs/workers/ci-cd/builds/git-integration/gitlab-integration.mdx
+  s_09253df7164ff9::t_d1d400608ad474 6
+src/content/docs/workers/ci-cd/builds/git-integration/index.mdx
+  s_09253df7164ff9::t_a7fb3798b161ea 4,13,19,25-27
+src/content/docs/workers/ci-cd/builds/index.mdx
+  s_09253df7164ff9::t_6d13554ade5782 13,17-18,57-58,73,89
+src/content/docs/workers/ci-cd/index.mdx
+  s_09253df7164ff9::t_3f0ce641b0e969 24,28-29,33
+src/content/docs/workers/configuration/cloudflare-config/index.mdx
+  s_09253df7164ff9::t_9beb94716aa3b3 1-11
+src/content/docs/workers/configuration/index.mdx
+  s_09253df7164ff9::t_12dbf45af91247 13-20
+src/content/docs/workers/configuration/routing/custom-domains.mdx
+  s_09253df7164ff9::t_412f5b66781e55 162-163
+src/content/docs/workers/get-started/guide.mdx
+  s_09253df7164ff9::t_6539ed8f087bee 53-57,204
+src/content/docs/workers/languages/python/packages/flask.mdx
+  s_09253df7164ff9::t_76aaa927df7a38 105
+src/content/docs/workers/local-development/local-dev-tunnels.mdx
+  s_09253df7164ff9::t_fa315268d8d19d 18
+src/content/docs/workers/observability/errors.mdx
+  s_09253df7164ff9::t_30e3158c32027c 380
+src/content/docs/workers/observability/exporting-opentelemetry-data/index.mdx
+  s_09253df7164ff9::t_7a921ba45cdab4 6
+src/content/docs/workers/observability/index.mdx
+  s_09253df7164ff9::t_8c6c60c731a2ab 47-50
+src/content/docs/workers/observability/issues/automations.mdx
+  s_09253df7164ff9::t_c0f58ef85c27b9 1-99
+src/content/docs/workers/observability/issues/index.mdx
+  s_09253df7164ff9::t_f5d08470e253aa 1-157
+src/content/docs/workers/observability/issues/investigate.mdx
+  s_09253df7164ff9::t_695ce5f4b811a1 3-4,6,8,13,15,17,19,21,23,25,27,29-33,35,37,39,41,43,45,48,50-53,55-57,59,61,63,66-68,70,72,74-78,80,82,84
+src/content/docs/workers/observability/logs/workers-logs.mdx
+  s_09253df7164ff9::t_cb4239616a12d3 25-26
+src/content/docs/workers/observability/source-maps.mdx
+  s_09253df7164ff9::t_9276f6b077fcdd 44-46
+src/content/docs/workers/observability/traces/custom-spans.mdx
+  s_09253df7164ff9::t_6b055247406830 20,23-26,180-200,203-252,254-259,262-263,266,277-278,282-341,364,366-368,371-373,376-377,450-453,456-461,464-468,476-492,494,496-499,505
+src/content/docs/workers/platform/known-issues.mdx
+  s_09253df7164ff9::t_ded4f2308527e8 88
+src/content/docs/workers/platform/storage-options.mdx
+  s_09253df7164ff9::t_d24d45b6a82a44 155-157,159,161,167,169
+src/content/docs/workers/previews/custom-domains.mdx
+  s_09253df7164ff9::t_0d34ec9e157e29 136,138-142
+src/content/docs/workers/previews/examples.mdx
+  s_09253df7164ff9::t_fe72c7804a70bb 15,60
+src/content/docs/workers/previews/index.mdx
+  s_09253df7164ff9::t_e018f419e6bd69 40-41
+src/content/docs/workers/runtime-apis/bindings/ai-search.mdx
+  s_09253df7164ff9::t_1e7def7f5d9c3e 1-10
+src/content/docs/workers/runtime-apis/context.mdx
+  s_09253df7164ff9::t_0088642034d05f 97
+src/content/docs/workers/runtime-apis/web-crypto.mdx
+  s_09253df7164ff9::t_909f60d8955d11 553-566
+src/content/docs/workers/testing/vitest-integration/test-apis.mdx
+  s_09253df7164ff9::t_8a5be84100df33 512-560
+src/content/docs/workers/vite-plugin/index.mdx
+  s_09253df7164ff9::t_46a3eaab3923b7 19
+src/content/docs/workers/wrangler/api.mdx
+  s_09253df7164ff9::t_97a5c417031bc0 661-662
+src/content/docs/workers/wrangler/commands/pipelines.mdx
+  s_09253df7164ff9::t_c21070c14c10d8 3-4,9,11,13,15-23
+src/content/docs/workers/wrangler/commands/r2.mdx
+  s_09253df7164ff9::t_96f93c3b374883 15-17
+src/content/docs/workers/wrangler/configuration.mdx
+  s_09253df7164ff9::t_c99a90f3d58cca 127-130,162,213-214,362,420-434,649-650,686,1221-1268,1329-1330,1332,1335-1338,1341-1342,1346,1348-1350,1353-1360,1369-1372,1375,1393,1414-1466,1468-1478,1481-1494,1500-1504,1527,1541
+src/content/docs/workers/wrangler/system-environment-variables.mdx
+  s_09253df7164ff9::t_863ecb9c8188dc 79-80,124
+src/content/docs/workflows/build/local-development.mdx
+  s_09253df7164ff9::t_b5d2143940d7cc 63-64,101-102
+src/content/docs/workflows/build/sleeping-and-retrying.mdx
+  s_09253df7164ff9::t_e1bfd103f2aad6 88
+src/content/docs/workflows/build/workers-api.mdx
+  s_09253df7164ff9::t_0cc8d04cea2b19 363-460
+src/content/fields/index.yaml
+  s_09253df7164ff9::t_71baa5629029b3 518-574,581-639,1678-1685,1689-1690
+src/content/glossary/api-shield.yaml
+  s_09253df7164ff9::t_39cff159b94d7f 18
+src/content/partials/ai-search/chat-completions-api-params.mdx
+  s_09253df7164ff9::t_ca8441b2f70afe 11,26
+src/content/partials/ai-search/search-api-params.mdx
+  s_09253df7164ff9::t_b54367e1b40d93 11,20
+src/content/partials/ai-search/search-response.mdx
+  s_09253df7164ff9::t_9b7658bf2ef5ba 9,29-30
+src/content/partials/ai-search/v2-chat-completions-params.mdx
+  s_09253df7164ff9::t_073197f679b37a 13-16,36-37
+src/content/partials/ai-search/v2-create-instance-params.mdx
+  s_09253df7164ff9::t_659f8d72019a4a 15,81,99-100,131
+src/content/partials/ai-search/v2-search-params.mdx
+  s_09253df7164ff9::t_23401c73c1bd81 13-16,30-31
+src/content/partials/ai-search/v2-search-response.mdx
+  s_09253df7164ff9::t_29f3b72f09d1ae 7-26
+src/content/partials/api-shield/label-methodology.mdx
+  s_09253df7164ff9::t_906a6367c54d23 5-8
+src/content/partials/api-shield/labels-add.mdx
+  s_09253df7164ff9::t_0cc38c86bb20d2 7,11
+src/content/partials/api-shield/mtls-create-rule.mdx
+  s_09253df7164ff9::t_e66d189409df5e 5,18
+src/content/partials/api-shield/rate-limit-user.mdx
+  s_09253df7164ff9::t_c2d24a2af75e3f 5,7,9,11,13,17,19,22,24-25
+src/content/partials/api-shield/required-session-identifiers.mdx
+  s_09253df7164ff9::t_2b9b2c8f5c3812 5
+src/content/partials/api-shield/session-identifiers.mdx
+  s_09253df7164ff9::t_39cbce25f1c790 5,11,13
+src/content/partials/api-shield/set-up-session-identifiers.mdx
+  s_09253df7164ff9::t_7104df8605823a 7-8,20,26-28
+src/content/partials/artifacts/agent-setup.mdx
+  s_09253df7164ff9::t_f97b6dadc22c50 1-8
+src/content/partials/cache/cache-reserve-operations.mdx
+  s_09253df7164ff9::t_37594ca427087f 15,17,19,21,23
+src/content/partials/cf/beta-note.mdx
+  s_09253df7164ff9::t_cb935192dbd5d0 1-8
+src/content/partials/cloudflare-one/gateway/http-allow-block-selectors.mdx
+  s_09253df7164ff9::t_55255726a3d0e3 34
+src/content/partials/cloudflare-one/tunnel/logs/network-session-logs.mdx
+  s_09253df7164ff9::t_beefdf18e4327c 1-15
+src/content/partials/cloudflare-one/warp/system-requirements/linux.mdx
+  s_09253df7164ff9::t_718f82ee5f4bf9 5-14,18
+src/content/partials/cloudflare-one/warp/system-requirements/macOS.mdx
+  s_09253df7164ff9::t_0a29457376bd90 5-15,17
+src/content/partials/cloudflare-one/warp/system-requirements/windows.mdx
+  s_09253df7164ff9::t_0007ae5e6f2c3f 5-7,9-14,16
+src/content/partials/containers/dind-network-host-caveat.mdx
+  s_09253df7164ff9::t_473583a3bf6854 4
+src/content/partials/fundamentals/api-rate-limits.mdx
+  s_09253df7164ff9::t_332aaf3d536bc3 5-11
+src/content/partials/hyperdrive/node-postgres-recommendation.mdx
+  s_09253df7164ff9::t_9889bfc9c37df0 10-15
+src/content/partials/load-balancing/monitor-settings-advanced.mdx
+  s_09253df7164ff9::t_3c7a6823ceb858 16
+src/content/partials/logs/enable-logpush-job.mdx
+  s_09253df7164ff9::t_746715671ac0d9 8
+src/content/partials/queues/event-subscriptions/browser-run-events.mdx
+  s_09253df7164ff9::t_29c8842953be33 1-118
+src/content/partials/realtime/realtimekit/common/installation.mdx
+  s_09253df7164ff9::t_324981b66b016d 242
+src/content/partials/sandbox/sdk-0x-note.mdx
+  s_09253df7164ff9::t_35eee622200814 1-9
+src/content/partials/workers/cloudflare-config.mdx
+  s_09253df7164ff9::t_1b0158d65fff22 1-718
+src/content/partials/workers/storage-products-table.mdx
+  s_09253df7164ff9::t_65387a79e57181 5-15
+src/content/partials/workers/wrangler-commands/r2-sql.mdx
+  s_09253df7164ff9::t_2d122aa70666ba 5,9,13-19
+src/content/partials/workers/wrangler-commands/r2.mdx
+  s_09253df7164ff9::t_0d0afd6fdcd983 5-12,23,25,27,29,31,33,35-39,41,43-47,49,51-55,57,59,61-65,67,69-73,75,77,79-83,85,87-91,93,95-99,101,103-107,109,111,113,115,117,119,121,123,125,127,129,131,133,135,137,139,141-157,168,170,172
+src/content/partials/workers/wrangler-commands/tunnel.mdx
+  s_09253df7164ff9::t_bcaf6493013fe1 184
+src/content/release-notes/ai-search.yaml
+  s_09253df7164ff9::t_d885d52ab4ff88 6-9,45
+src/content/release-notes/api-deprecations.yaml
+  s_09253df7164ff9::t_5e743e20c2c554 6-25
+src/content/release-notes/realtimekit-react-native-core.yaml
+  s_09253df7164ff9::t_76000a89833851 21
+src/content/warp-releases/macos/beta/2026.8.2028.1.yaml
+  s_09253df7164ff9::t_62dc0c8efde0dc 1-29
+src/content/warp-releases/windows/beta/2026.8.2028.1.yaml
+  s_09253df7164ff9::t_70d7a31d378ac8 1-30
+src/content/warp-releases/windows/beta/2026.8.2033.1.yaml
+  s_09253df7164ff9::t_e011fe31ac417a 1-32
+src/content/workers-ai-models/apertus-v1.5-8b.json
+  s_09253df7164ff9::t_1d3ed823908bc0 1-27
+src/content/workers-ai-models/clef-flash.json
+  s_09253df7164ff9::t_efb81c8c8a254f 1-331
+src/content/workers-ai-models/clef.json
+  s_09253df7164ff9::t_8c2b52a468dc55 1-331
+src/content/workers-ai-models/deepseek-v4-flash-0731.json
+  s_09253df7164ff9::t_e89cd62d738600 24-43,322-323,325,332-333,341,1571-1572,1574,1581-1582,1590,2390-2391,2393,2400-2401,2409,3639-3640,3642,3649-3650,3658,4709
+src/content/workers-ai-models/deepseek-v4-pro-0813.json
+  s_09253df7164ff9::t_ca5d4269bc53a5 20-39,318-319,321,328-329,337,1567-1568,1570,1577-1578,1586,2386-2387,2389,2396-2397,2405,3635-3636,3638,3645-3646,3654,4705
+src/content/workers-ai-models/eurollm-9b-it.json
+  s_09253df7164ff9::t_812574fa224097 1-27
+src/content/workers-ai-models/gemma-4-26b-a4b-it.json
+  s_09253df7164ff9::t_feface9a4771b1 20-26,313,1548,2353,3588,4639
+src/content/workers-ai-models/glm-4.7-flash.json
+  s_09253df7164ff9::t_c1032b7c13b38d 30-36,295,1526,2572
+src/content/workers-ai-models/glm-5.2.json
+  s_09253df7164ff9::t_3559b7da0514c5 20-39,318-320,327-328,336,1566-1568,1575-1576,1584,2384-2386,2393-2394,2402,3632-3634,3641-3642,3650,4701
+src/content/workers-ai-models/glm-5.3-flash.json
+  s_09253df7164ff9::t_153bebc36345f2 10,20-39,326-328,335-336,344-347,1577-1579,1586-1587,1595-1598,2398-2400,2407-2408,2416-2419,3649-3651,3658-3659,3667-3670,4721
+src/content/workers-ai-models/glm-5.3.json
+  s_09253df7164ff9::t_8b3fb5eac4a1ec 10,20-39,318-320,327-328,336-339,1569-1571,1578-1579,1587-1590,2390-2392,2399-2400,2408-2411,3641-3643,3650-3651,3659-3662,4713
+src/content/workers-ai-models/gpt-oss-120b.json
+  s_09253df7164ff9::t_beef8bc169db2c 34-46,462-464,512-514,555
+src/content/workers-ai-models/gpt-oss-20b.json
+  s_09253df7164ff9::t_1a57413d792578 34-46,462-464,512-514,555
+src/content/workers-ai-models/kimi-k2.6.json
+  s_09253df7164ff9::t_7e4d600de13d50 24-41,328-329,336-337,345,1575-1576,1583-1584,1592,2392-2393,2400-2401,2409,3639-3640,3647-3648,3656,4707
+src/content/workers-ai-models/kimi-k2.7-code.json
+  s_09253df7164ff9::t_57fe9b7e67260a 20-26,314-317,1548-1551,2352-2355,3586-3589,4640
+src/content/workers-ai-models/nemotron-3-120b-a12b.json
+  s_09253df7164ff9::t_a261eb696da383 55,159,181,199,283,288,290,293-298,421,836-840,850-869,872-876,878-888,956,978,996,1080,1085-1090,1092,1095,1144-1345,1347-1352,1356-1357,1363,1370-1420,1422-1496,1498-1501,1503-1504,1506,1511,1518,1520-1524,1527-1530,1533-1537,1539,1545,1548,1551-1560,1563,1568,1570-1671,1673-1697,1699-1720,1722-1724,1726-1819,1822-1824,1826-1834,1838,1841,1844-1847,1849-1850,1852-1881,1883-1988,1990-1991,1993-1997,2003,2009,2012,2015-2017,2020-2029,2031-2033,2035-2039,2042-2044,2048-2050,2053,2055-2060,2062-2066,2068-2073,2077,2581
+src/content/workers-ai-models/qwen3.8-27b.json
+  s_09253df7164ff9::t_f0fa37be740fa1 20-36,321,328-329,337,1569,1576-1577,1585,2387,2394-2395,2403,3635,3642-3643,3651,4702
+src/icons/cf.svg
+  s_09253df7164ff9::t_a432d2556d3e0c 1
+src/icons/devin.svg
+  s_09253df7164ff9::t_9f0b5a90dd0b4e 1
+src/icons/monetization-gateway.svg
+  s_09253df7164ff9::t_dad6b364a8c145 1
+src/layouts/BaseLayout.astro
+  s_09253df7164ff9::t_a71a6a0d2587ef 19,126-147
+src/layouts/ChangelogLayout.astro
+  s_09253df7164ff9::t_fe690531731b8a 55,58-59,69,94,136
+src/mdx-components.ts
+  s_09253df7164ff9::t_ad0b5e06983075 13-14,59-60
+src/pages/[...slug].astro
+  s_09253df7164ff9::t_4978d916c94e48 16-18,32-35,40-52,136-162
+src/pages/changelog/post/[...slug].astro
+  s_09253df7164ff9::t_de155f105044dc 17,55
+src/pages/directory.astro
+  s_09253df7164ff9::t_f0985af21de585 27-32,35-38
+src/pages/sponsorships.astro
+  s_09253df7164ff9::t_aa15146dc51008 2,5,22-191,228,234-237,240-241,246-253,300,306-309,312-313,318-325,443,449-452,455-456,461-468,505,511-514,517-518,523-530,587,593-596,599-600,605-612,653,659-662,665-666,671-678,718,724-727,730-731,736-743,783,789-792,795-796,801-808,849,855-858,861-862,867-874,909,915-918,921-922,927-934,999,1005-1008,1011-1012,1017-1024,1065,1071-1074,1077-1078,1083-1090,1279,1285-1288,1291-1292,1297-1304,1414,1420-1423,1426-1427,1432-1439,1478,1484-1487,1490-1491,1496-1503,1621,1627-1630,1633-1634,1639-1646,1682,1688-1691,1694-1695,1700-1707,1744,1750-1753,1756-1757,1762-1769,1848,1854-1857,1860-1861,1866-1873,1917,1923-1926,1929-1930,1935-1942,1982,1988-1991,1994-1995,2000-2007,2045,2051-2054,2057-2058,2063-2070,2113,2119-2122,2125-2126,2131-2138,2178,2184-2187,2190-2191,2196-2203,2245,2251-2254,2257-2258,2263-2270,2282,2285-2291,2296,2300-2303,2305,2308-2309,2314,2322,2325-2327,2335-2337,2340-2346,2355-2358,2362,2364,2373-2374,2387,2400-2455
+src/plugins/satteri/heading-slugs.ts
+  s_09253df7164ff9::t_a576446fd6d04f 15,69-71
+src/plugins/satteri/index.ts
+  s_09253df7164ff9::t_a8bd986d0f3bde 10,30
+src/plugins/satteri/pipeline.node.test.ts
+  s_09253df7164ff9::t_426135da9111b6 66,69
+src/scripts/copy-prompt.node.test.ts
+  s_09253df7164ff9::t_886ce3b9ba0d15 1-81
+src/scripts/copy-prompt.ts
+  s_09253df7164ff9::t_fad276c493567a 1-21
+src/styles/globals.css
+  s_09253df7164ff9::t_9ab428f664b2f9 60-61,161-162,304-349,420-421
+src/styles/prose.css
+  s_09253df7164ff9::t_03d176eae67414 244-246
+src/util/api.ts
+  s_09253df7164ff9::t_099ba3854fb433 4-10,20,27
+src/util/custom-loaders.ts
+  s_09253df7164ff9::t_c1a70c17b1b8a7 24-34,36,44,49,54,57-59,147,149,179-181
+src/util/description.node.test.ts
+  s_09253df7164ff9::t_d80706725dde88 37-39
+src/util/description.ts
+  s_09253df7164ff9::t_013a613d582dd3 4,15
+src/util/external-link-arrow.ts
+  s_09253df7164ff9::t_fc073f5298bd79 1-10
+src/util/markdown.ts
+  s_09253df7164ff9::t_76a8460a7de6a4 18,129-134
+src/util/models/facets.ts
+  s_09253df7164ff9::t_bfa4a4fd673736 34-37
+src/util/models/model-format.node.test.ts
+  s_09253df7164ff9::t_20225afb03c532 2-6,14-89
+src/util/models/model-format.ts
+  s_09253df7164ff9::t_beb20b00e7c056 18-28,36-94
+src/util/og/changelog.ts
+  s_09253df7164ff9::t_5b530facf3b94b 1-19
+src/util/og/docs.ts
+  s_09253df7164ff9::t_df6917627a4bf5 1-128
+src/util/og/hash.ts
+  s_09253df7164ff9::t_7fdcbfc06eb598 1-10
+src/util/og/index.ts
+  s_09253df7164ff9::t_fd1747f9308476 1-26
+src/util/og/tests/changelog.node.test.ts
+  s_09253df7164ff9::t_af9be1e94954c0 1-49
+src/util/og/tests/docs.node.test.ts
+  s_09253df7164ff9::t_6ba3ef248a9fb2 1-128
+src/util/openapi-schema.node.test.ts
+  s_09253df7164ff9::t_a93da8fd1cfc2e 1-486
+src/util/openapi-schema.ts
+  s_09253df7164ff9::t_402d9d77feec53 4-24,26-30,33,37,41-81,83,85-91,94-95,97-98,100,102-138,140-217,219-262,264-275,277-284,286-307,309-318
+src/util/package-managers.node.test.ts
+  s_09253df7164ff9::t_b545d8af491a7f 3-8,47-55,96-106
+src/util/package-managers.ts
+  s_09253df7164ff9::t_55ea8cb70b1868 8,57-63,68,70-71,103-112
+src/util/rendered-toc.ts
+  s_09253df7164ff9::t_d3ba1814fb4b7b 8-15,49,67
+src/util/sidebar.astro.test.ts
+  s_09253df7164ff9::t_d841a6736b65aa 15-20,26,35,38,122-165
+src/util/sidebar.ts
+  s_09253df7164ff9::t_a5e083e508578e 13,217-228,231-234,237-245,293-301,358
+vitest.config.ts
+  s_09253df7164ff9::t_70360038eb3189 1,17
+worker/index.preview.ts
+  s_09253df7164ff9::t_dc6646fa9cc9af 17,27-28,80-82,93-101,105-106,150,187-190
+worker/index.preview.worker.test.ts
+  s_09253df7164ff9::t_dda8cd1dd3d816 1,136-175
+worker/index.ts
+  s_09253df7164ff9::t_b21aa6946f0588 6,98-101
+worker/index.worker.test.ts
+  s_09253df7164ff9::t_0928901f1eda1e 282-284
+worker/og/cards/changelog.ts
+  s_09253df7164ff9::t_3e0c31ca05d708 1-66
+worker/og/cards/docs.ts
+  s_09253df7164ff9::t_8ec67fb7a42b2c 1-65
+worker/og/fonts.ts
+  s_09253df7164ff9::t_c326fbb3bbe6f2 1-76
+worker/og/layout.ts
+  s_09253df7164ff9::t_5f88b8cadde743 1-346
+worker/og/opentype.d.ts
+  s_09253df7164ff9::t_e577b90aeb944e 1-12
+worker/og/page.ts
+  s_09253df7164ff9::t_a785568b858458 1-48
+worker/og/registry.ts
+  s_09253df7164ff9::t_6e8b951871ab80 1-10
+worker/og/route.ts
+  s_09253df7164ff9::t_a77055ccb8a359 1-2,4,6-10,13-76
+worker/og/serve.ts
+  s_09253df7164ff9::t_e2bcad714c6300 1-106
+worker/og/tests/changelog-parity.worker.test.ts
+  s_09253df7164ff9::t_923184d9ddd787 1-85
+worker/og/tests/changelog.worker.test.ts
+  s_09253df7164ff9::t_4198ebfff5ddef 1-295
+worker/og/tests/docs.worker.test.ts
+  s_09253df7164ff9::t_60c7153f5bd8c2 1-235
+worker/og/tests/fonts.worker.test.ts
+  s_09253df7164ff9::t_2642561588d25d 1-55
+worker/og/tests/layout.node.test.ts
+  s_09253df7164ff9::t_3ec0af873026ec 1-136
+worker/og/tests/route.worker.test.ts
+  s_09253df7164ff9::t_9e1774fa969f19 1-102
+worker/og/types.ts
+  s_09253df7164ff9::t_e96e16618d147b 1-19
+worker/tsconfig.json
+  s_09253df7164ff9::t_b06e6f620256d7 12
+worker/worker-configuration.d.ts
+  s_09253df7164ff9::t_517543cc0cf601 6,12-15
+wrangler.jsonc
+  s_09253df7164ff9::t_f398bb4de99562 15,23-27
+wrangler.preview.json
+  s_09253df7164ff9::t_b0b17ced32e3ee 10-11,19-21
+wrangler.preview.test.json
+  s_09253df7164ff9::t_1cd093d1b63a3a 9-10,18-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "40ebc86c5506a5c9d1fa53d46ea3bbdceb761b55",
+  "prompts": {},
+  "sessions": {
+    "s_09253df7164ff9": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f08531408ffev1e4xU1GegRsdP",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Júlio Pinto <jpinto@cloudflare.com>"
+    }
+  }
+}
