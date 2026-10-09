@@ -1,0 +1,31 @@
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-mesh/guides/index.mdx
+  s_5303bdf01d2060::t_6cc40e7cb9b871 4
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-mesh/guides/run-mesh-in-containers.mdx
+  s_5303bdf01d2060::t_1d87e44184d0cd 13
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-mesh/guides/run-mesh-on-linux.mdx
+  s_5303bdf01d2060::t_7501bc441154fa 1-19
+src/content/docs/mesh/guides/index.mdx
+  s_5303bdf01d2060::t_9a67da337b073f 4
+src/content/docs/mesh/guides/run-mesh-in-containers.mdx
+  s_5303bdf01d2060::t_1262af4c5bc681 13
+src/content/docs/mesh/guides/run-mesh-on-linux.mdx
+  s_5303bdf01d2060::t_d5af79f00a2912 1-19
+src/content/partials/cloudflare-one/mesh/pages/get-started.mdx
+  s_5303bdf01d2060::t_1da30437d72f22 260
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "1c193ffc95393313767503d1b180afcf5a667e4b",
+  "prompts": {},
+  "sessions": {
+    "s_5303bdf01d2060": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ee4d762ceffewzdk6L1ziGeZnt",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Júlio Pinto <jpinto@cloudflare.com>"
+    }
+  }
+}
