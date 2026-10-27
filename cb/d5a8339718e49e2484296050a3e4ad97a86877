@@ -1,0 +1,31 @@
+src/components/react/mesh/MeshHighAvailability.tsx
+  s_21f0224e72a447::t_06d3949eac0634 18-20,22,24-28,31-48,152-158,193-198,206-221,239-240,243,245,297-298
+src/components/react/mesh/MeshRoutes.tsx
+  s_21f0224e72a447::t_1b3b8fbf6dca35 22,24,195-197,199
+src/components/react/mesh/PacketPulse.tsx
+  s_1d00fb9893d9ce::t_38133ece598025 1-5,7,10-15,17,20,27,37,44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "cbd5a8339718e49e2484296050a3e4ad97a86877",
+  "prompts": {},
+  "sessions": {
+    "s_1d00fb9893d9ce": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e82f51efaffemuVY3Zo0hUSKcK",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Júlio Pinto <jpinto@cloudflare.com>"
+    },
+    "s_21f0224e72a447": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e83011712ffeR7dxb5xgLoYJNc",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Júlio Pinto <jpinto@cloudflare.com>"
+    }
+  }
+}
